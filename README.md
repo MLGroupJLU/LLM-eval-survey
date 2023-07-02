@@ -5,6 +5,12 @@
 # What to evaluate
 ## Natural language processing
 ### Sentiment analysis
+1. Holistic evaluation of language models. _Percy Liang et al._ arXiv 2022. [[paper](https://arxiv.org/abs/2211.09110)]
+2. Can chatgpt forecast stock price movements? return predictability and large language models.
+3. Is chatgpt a general-purpose natural language processing task solver?
+4. Large language models in the workplace: A case study on prompt engineering for job type classification.
+5. Sentiment analysis in the era of large language models: A reality check.
+### 
 ## Robustness, ethics, biases, and trustworthiness
 ## Medical application
 ## Social science
