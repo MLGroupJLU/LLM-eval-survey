@@ -7,7 +7,7 @@
 ## Robustness, ethics, biases, and trustworthiness
 ## Medical application
 ## Social science
-1. Large language models can be used to estimate the ideologies of politicians in a zero-shot learning setting [[paper](https://arxiv.org/abs/2303.12057)]
+1. Large language models can be used to estimate the ideologies of politicians in a zero-shot learning setting. _Patrick Y. Wu et al_ arXiv 2023.[[paper](https://arxiv.org/abs/2303.12057)]
 2. 
 ## Natural science and engineering
 ## Other tasks
