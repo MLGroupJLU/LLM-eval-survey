@@ -5,7 +5,7 @@
 # Table of Contents
 # What to evaluate
 ## Natural language processing
-## Robustness, ethics, biases, and trustthiness
+## Robustness, ethics, biases, and trustworthiness
 ## Medical application
 ## Social science
 ## Natural science and engineering
