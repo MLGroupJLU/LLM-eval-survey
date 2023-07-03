@@ -1,5 +1,3 @@
-![842e6b6cfbd0563ceab297cb5d6787c](https://github.com/MLGroupJLU/LLM-eval-survey/assets/71212131/cc7da891-45de-4d74-a403-079652896728)
-
 <h1 align="center">
   <br>
   <img src="imgs/logo-llmeval.png" alt="LLM evaluation" width="500">
