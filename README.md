@@ -1,3 +1,5 @@
+![842e6b6cfbd0563ceab297cb5d6787c](https://github.com/MLGroupJLU/LLM-eval-survey/assets/71212131/cc7da891-45de-4d74-a403-079652896728)
+
 # LLM-eval-survey
 > A collection of papers and resources related to Evaluation on Large Language Model.  
 > The papers are organized according to our survey: A Survey on Evaluation of Large Language Models
