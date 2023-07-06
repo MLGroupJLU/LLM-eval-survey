@@ -201,4 +201,10 @@
 3. An Evaluation of Log Parsing with ChatGPT. _Van-Hoang Le et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.01590)]
 
 ## Where to evaluate
+### General benchmarks
+
+### Specific benchmarks
+
 ## How to evaluate
+### Automatic evaluation
+### Human evaluation
