@@ -12,7 +12,7 @@
 # Table of Contents
 ## What to evaluate
 ### Natural language processing
-**Natural language understanding**
+**Natural language understanding**  
 (1) Setiment analysis:
 1. Holistic evaluation of language models. _Percy Liang et al._ arXiv 2022. [[paper](https://arxiv.org/abs/2211.09110)]
 2. Can chatgpt forecast stock price movements? return predictability and large language models. _Alejandro Lopez-Lira et al._ SSRN 2023. [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412788)]
