@@ -17,9 +17,9 @@ Yue Zhang<sup>5</sup> Yi Chang<sup>1</sup>
 Philip S. Yu<sup>7</sup>
 Qiang Yang<sup>8</sup> 
 and Xing Xie<sup>2</sup>
-
+\u271D
 <sup>*</sup>: Co-first Author
-<sup>&#10013</sup>: Co-corresponding Authors
+<sup>\u271D</sup>: Co-corresponding Authors
 <sup>1</sup> Jilin University
 <sup>2</sup> Microsoft Research Asia
 <sup>3</sup> Institute of Automation
