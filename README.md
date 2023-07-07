@@ -215,7 +215,7 @@ The paper lists 13 popular benchmarks. For better summarization, these benchmark
 | Big-Bench [[paper](https://arxiv.org/abs/2206.04615)][[GitHub](https://github.com/google/BIG-bench)]    | Language Model Evaluation          | Specific downstream task | Various Metrics, Model Comparisons            |
 | C-Eval [[paper](https://arxiv.org/abs/2305.08322)][[GitHub](https://github.com/SJTU-LIT/ceval)]      | Chinese Evaluation                 | Specific downstream task | Advanced knowledge, Reasoning abilities       |
 | Leaderboard [[Link](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)] | Language Model Evaluation          | Specific downstream task | Task-Specific Metrics, Leaderboard Rankings   |
-| M3Exam      | Multilingual Multimodal Multilevel | Specific downstream task | Task-Specific Metrics                         |
+| M3Exam [[paper](https://arxiv.org/abs/2306.05179)] [[GitHub](https://github.com/DAMO-NLP-SG/M3Exam)]     | Multilingual Multimodal Multilevel | Specific downstream task | Task-Specific Metrics                         |
 | MultiMedQA  | Medical Question Answering         | Specific downstream task | Accuracy, Medical Knowledge, Reasoning        |
 | SOCKET      | Sociability                        | Specific downstream task | Coherence, Contextual Understanding           |
 | API-Bank    | Tool-augmented                     | Specific downstream task | Metrics                                       |
