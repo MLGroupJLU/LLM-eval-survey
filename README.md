@@ -201,9 +201,25 @@
 3. An Evaluation of Log Parsing with ChatGPT. _Van-Hoang Le et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.01590)]
 
 ## Where to evaluate
-### General benchmarks
+| Benchmark   | Focus                              | Domain                   | Evaluation Criteria                           |
+|-------------|------------------------------------|--------------------------|-----------------------------------------------|
+| AlpacaEval  | Automated Evaluation               | General language task    | Metrics, Robustness, Diversity                |
+| AGIEval     | Human-centered Foundational Models | General language task    | General                                       |
+| GLUE-X      | Natural Language Understanding     | General language task    | Metrics, OOD Robustness                       |
+| KoLA        | Knowledge-Oriented Evaluation      | General language task    | Overall standard scores, Self-contrast metric |
+| DynaBench   | Dynamic Evaluation                 | General language task    | NLI, QA, Sentiment, Hate speech               |
+| PromptBench | Adversarial Prompt Resilience      | General language task    | Prompt Design, Robustness                     |
+| PandaLM     | Automatic Evaluation               | General language task    | Model Performance Reliability                 |
+| HELM        | Comprehensive Evaluation           | General language task    | Task-Specific Metrics                         |
+| Big-Bench   | Language Model Evaluation          | Specific downstream task | Various Metrics, Model Comparisons            |
+| C-Eval      | Chinese Evaluation                 | Specific downstream task | Advanced knowledge, Reasoning abilities       |
+| Leaderboard | Language Model Evaluation          | Specific downstream task | Task-Specific Metrics, Leaderboard Rankings   |
+| M3Exam      | Multilingual Multimodal Multilevel | Specific downstream task | Task-Specific Metrics                         |
+| MultiMedQA  | Medical Question Answering         | Specific downstream task | Accuracy, Medical Knowledge, Reasoning        |
+| SOCKET      | Sociability                        | Specific downstream task | Coherence, Contextual Understanding           |
+| API-Bank    | Tool-augmented                     | Specific downstream task | Metrics                                       |
+| ToolBench   | Software tools                     | Specific downstream task | Execution success rate                        |
 
-### Specific benchmarks
 
 ## How to evaluate
 ### Automatic evaluation
