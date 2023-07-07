@@ -3,6 +3,10 @@
   <img src="imgs/logo-llmeval.png" alt="LLM evaluation" width="500">
 </h1>
 
+Yupeng Chang<sup>*</sup>  Xu Wang Jindong Wang Yuan Wu Kaijie Zhu Hao Chen Linyi Yang Xiaoyuan Yi
+Cunxiang Wang Yidong Wang Wei Ye Yue Zhang Yi Chang
+Philip S. Yu Qiang Yang and Xing Xie
+
 # LLM-eval-survey
 > A collection of papers and resources related to Evaluation on Large Language Model.  
 > The papers are organized according to our survey: [A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109).
