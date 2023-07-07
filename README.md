@@ -13,13 +13,13 @@
   Hao Chen<sup>4</sup>&nbsp&nbsp  
   Linyi Yang<sup>5</sup>&nbsp&nbsp 
   Xiaoyuan Yi<sup>2</sup>&nbsp&nbsp 
-  Cunxiang Wang<sup>5</sup> </p>&nbsp&nbsp  
+  Cunxiang Wang<sup>5</sup> </p> 
 <p align="center">
-  Yidong Wang<sup>6</sup>
-  Wei Ye<sup>6</sup>
-  Yue Zhang<sup>5</sup> Yi Chang<sup>1</sup>
-  Philip S. Yu<sup>7</sup>
-  Qiang Yang<sup>8</sup> 
+  Yidong Wang<sup>6</sup>&nbsp&nbsp
+  Wei Ye<sup>6</sup>&nbsp&nbsp
+  Yue Zhang<sup>5</sup> Yi Chang<sup>1</sup>&nbsp&nbsp
+  Philip S. Yu<sup>7</sup>&nbsp&nbsp
+  Qiang Yang<sup>8</sup>&nbsp&nbsp 
   Xing Xie<sup>2</sup>
 </p>
 
