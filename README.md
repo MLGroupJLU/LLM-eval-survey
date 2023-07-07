@@ -17,10 +17,10 @@
   Xing Xie<sup>2</sup>
 </p>  
 
-<center>
-222
-333
-</center>
+<p align="center">
+  222
+</p>
+
 
 <p align="center">
   <sup>*</sup>: Co-first Author&nbsp&nbsp 
