@@ -218,8 +218,8 @@ The paper lists 13 popular benchmarks. For better summarization, these benchmark
 | M3Exam [[paper](https://arxiv.org/abs/2306.05179)] [[GitHub](https://github.com/DAMO-NLP-SG/M3Exam)]     | Multilingual Multimodal Multilevel | Specific downstream task | Task-Specific Metrics                         |
 | MultiMedQA [[paper](https://arxiv.org/abs/2212.13138)]  | Medical Question Answering         | Specific downstream task | Accuracy, Medical Knowledge, Reasoning        |
 | SOCKET [[paper](https://arxiv.org/abs/2305.14938)]      | Sociability                        | Specific downstream task | Coherence, Contextual Understanding           |
-| API-Bank    | Tool-augmented                     | Specific downstream task | Metrics                                       |
-| ToolBench   | Software tools                     | Specific downstream task | Execution success rate                        |
+| API-Bank [[paper](https://arxiv.org/abs/2304.08244)]    | Tool-augmented                     | Specific downstream task | Metrics                                       |
+| ToolBench [[GitHub](https://github.com/sambanova/toolbench)]  | Software tools                     | Specific downstream task | Execution success rate                        |
 
 ## How to evaluate
 ### Automatic evaluation
