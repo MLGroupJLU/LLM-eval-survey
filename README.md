@@ -46,7 +46,10 @@
 
 # LLM-eval-survey
 > A collection of papers and resources related to Evaluation on Large Language Model.  
-> The papers are organized according to our survey: [A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109).
+
+The papers are organized according to our survey: [A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109). 
+
+**NOTE:** As we cannot update the arXiv paper in real time, please refer to this repo for the latest updates and the paper may be updated later.
 
 ![](imgs/framework.png)
 
@@ -244,8 +247,8 @@
 The paper lists 13 popular benchmarks. For better summarization, these benchmarks are divided into two categories: general language task benchmarks and specific downstream task benchmarks.
 | Benchmark   | Focus                              | Domain                   | Evaluation Criteria                           |
 |-------------|------------------------------------|--------------------------|-----------------------------------------------|
-| AlpacaEval[[GitHub](https://github.com/tatsu-lab/alpaca_eval)]  | Automated Evaluation               | General language task    | Metrics, Robustness, Diversity                |
-| AGIEval[[paper](https://arxiv.org/abs/2304.06364)]     | Human-centered Foundational Models | General language task    | General                                       |
+| AlpacaEval [[GitHub](https://github.com/tatsu-lab/alpaca_eval)]  | Automated Evaluation               | General language task    | Metrics, Robustness, Diversity                |
+| AGIEval [[paper](https://arxiv.org/abs/2304.06364)]     | Human-centered Foundational Models | General language task    | General                                       |
 | GLUE-X [[paper](https://arxiv.org/abs/2211.08073)] [[GitHub](https://github.com/YangLinyi/GLUE-X)]     | Natural Language Understanding     | General language task    | OOD Robustness                       |
 | KoLA [[papeer](https://arxiv.org/abs/2306.09296)]       | Knowledge-Oriented Evaluation      | General language task    | Self-contrast Metrics |
 | DynaBench [[paper](https://arxiv.org/abs/2104.14337)]   | Dynamic Evaluation                 | General language task    | NLI, QA, Sentiment, Hate speech               |
@@ -254,8 +257,8 @@ The paper lists 13 popular benchmarks. For better summarization, these benchmark
 | HELM [[paper](https://arxiv.org/abs/2211.09110)]        | Comprehensive Evaluation           | General language task    | Task-Specific Metrics                         |
 | Big-Bench [[paper](https://arxiv.org/abs/2206.04615)][[GitHub](https://github.com/google/BIG-bench)]    | Language Model Evaluation          | General language task | Various Metrics, Model Comparisons            |
 | C-Eval [[paper](https://arxiv.org/abs/2305.08322)][[GitHub](https://github.com/SJTU-LIT/ceval)]      | Chinese Evaluation                 | General language task | 52 Exams in a Chinese Context   |
-| MT-Bench[[paper](https://arxiv.org/abs/2306.05685)]  | Multi-turn Conversation      | General language task    | Winrate Judged by GPT-4                |
-| Chatbot Arena[[paper](https://arxiv.org/abs/2306.05685)]  | Response Quality      | General language task    | Crowdsourcing and Elo Rating System                 |
+| MT-Bench [[paper](https://arxiv.org/abs/2306.05685)]  | Multi-turn Conversation      | General language task    | Winrate Judged by GPT-4                |
+| Chatbot Arena [[paper](https://arxiv.org/abs/2306.05685)]  | Response Quality      | General language task    | Crowdsourcing and Elo Rating System                 |
 | Leaderboard [[Link](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)] | Language Model Evaluation          | General language task | Task-Specific Metrics, Leaderboard Rankings   |
 | M3Exam [[paper](https://arxiv.org/abs/2306.05179)] [[GitHub](https://github.com/DAMO-NLP-SG/M3Exam)]     | Multilingual Multimodal Multilevel | Specific downstream task | Task-Specific Metrics                         |
 | MultiMedQA [[paper](https://arxiv.org/abs/2212.13138)]  | Medical Question Answering         | Specific downstream task | Accuracy, Medical Knowledge, Reasoning Ability       |
@@ -282,6 +285,8 @@ We welcome contributions to LLM-eval-survey! If you'd like to contribute, please
 1. Fork the repository.
 2. Create a new branch with your changes.
 3. Submit a pull request with a clear description of your changes.
+
+You can also open an issue if you have anything to add or comment.
 
 
 ## Citation
