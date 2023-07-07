@@ -204,14 +204,14 @@
 The paper lists 13 popular benchmarks. For better summarization, these benchmarks are divided into two categories: general language task benchmarks and specific downstream task benchmarks.
 | Benchmark   | Focus                              | Domain                   | Evaluation Criteria                           |
 |-------------|------------------------------------|--------------------------|-----------------------------------------------|
-| [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval)  | Automated Evaluation               | General language task    | Metrics, Robustness, Diversity                |
-| AGIEval     | Human-centered Foundational Models | General language task    | General                                       |
-| GLUE-X      | Natural Language Understanding     | General language task    | Metrics, OOD Robustness                       |
-| KoLA        | Knowledge-Oriented Evaluation      | General language task    | Overall standard scores, Self-contrast metric |
-| DynaBench   | Dynamic Evaluation                 | General language task    | NLI, QA, Sentiment, Hate speech               |
-| PromptBench | Adversarial Prompt Resilience      | General language task    | Prompt Design, Robustness                     |
-| PandaLM     | Automatic Evaluation               | General language task    | Model Performance Reliability                 |
-| HELM        | Comprehensive Evaluation           | General language task    | Task-Specific Metrics                         |
+| AlpacaEval[[GitHub](https://github.com/tatsu-lab/alpaca_eval)]  | Automated Evaluation               | General language task    | Metrics, Robustness, Diversity                |
+| AGIEval[[paper](https://arxiv.org/abs/2304.06364)]     | Human-centered Foundational Models | General language task    | General                                       |
+| GLUE-X [[paper](https://arxiv.org/abs/2211.08073)] [[GitHub](https://github.com/YangLinyi/GLUE-X)]     | Natural Language Understanding     | General language task    | Metrics, OOD Robustness                       |
+| KoLA [[papeer](https://arxiv.org/abs/2306.09296)]       | Knowledge-Oriented Evaluation      | General language task    | Overall standard scores, Self-contrast metric |
+| DynaBench [[paper](https://arxiv.org/abs/2104.14337)]   | Dynamic Evaluation                 | General language task    | NLI, QA, Sentiment, Hate speech               |
+| PromptBench [[paper](https://arxiv.org/abs/2306.04528)] [[GitHub](https://github.com/microsoft/promptbench)] | Adversarial Prompt Resilience      | General language task    | Prompt Design, Robustness                     |
+| PandaLM [[paper](https://arxiv.org/abs/2306.05087)] [[GitHub](https://github.com/WeOpenML/PandaLM)]     | Automatic Evaluation               | General language task    | Model Performance Reliability                 |
+| HELM [[paper](https://arxiv.org/abs/2211.09110)]        | Comprehensive Evaluation           | General language task    | Task-Specific Metrics                         |
 | Big-Bench   | Language Model Evaluation          | Specific downstream task | Various Metrics, Model Comparisons            |
 | C-Eval      | Chinese Evaluation                 | Specific downstream task | Advanced knowledge, Reasoning abilities       |
 | Leaderboard | Language Model Evaluation          | Specific downstream task | Task-Specific Metrics, Leaderboard Rankings   |
