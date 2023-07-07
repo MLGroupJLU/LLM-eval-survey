@@ -254,8 +254,8 @@ The paper lists 13 popular benchmarks. For better summarization, these benchmark
 | HELM [[paper](https://arxiv.org/abs/2211.09110)]        | Comprehensive Evaluation           | General language task    | Task-Specific Metrics                         |
 | Big-Bench [[paper](https://arxiv.org/abs/2206.04615)][[GitHub](https://github.com/google/BIG-bench)]    | Language Model Evaluation          | General language task | Various Metrics, Model Comparisons            |
 | C-Eval [[paper](https://arxiv.org/abs/2305.08322)][[GitHub](https://github.com/SJTU-LIT/ceval)]      | Chinese Evaluation                 | General language task | 52 Exams in a Chinese Context   |
-| MT-Bench[[paper](https://arxiv.org/abs/2306.05685)]  | Multi-turn conversation               | General language task    | Winrate Judged by GPT-4                |
-| Chatbot Arena[[paper](https://arxiv.org/abs/2306.05685)]  | Anonymous battles               | General language task    | Crowdsourcing and Elo Rating System                 |
+| MT-Bench[[paper](https://arxiv.org/abs/2306.05685)]  | Multi-turn Conversation      | General language task    | Winrate Judged by GPT-4                |
+| Chatbot Arena[[paper](https://arxiv.org/abs/2306.05685)]  | Response Quality      | General language task    | Crowdsourcing and Elo Rating System                 |
 | Leaderboard [[Link](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)] | Language Model Evaluation          | General language task | Task-Specific Metrics, Leaderboard Rankings   |
 | M3Exam [[paper](https://arxiv.org/abs/2306.05179)] [[GitHub](https://github.com/DAMO-NLP-SG/M3Exam)]     | Multilingual Multimodal Multilevel | Specific downstream task | Task-Specific Metrics                         |
 | MultiMedQA [[paper](https://arxiv.org/abs/2212.13138)]  | Medical Question Answering         | Specific downstream task | Accuracy, Medical Knowledge, Reasoning Ability       |
