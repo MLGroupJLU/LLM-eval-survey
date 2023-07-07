@@ -225,6 +225,7 @@ The paper lists 13 popular benchmarks. For better summarization, these benchmark
 ### Automatic evaluation
 
 ### Human evaluation
+Human evaluation of LLMs is a way to evaluate the quality and accuracy of model-generated results through human participation.
 
 ## Contributors
 
