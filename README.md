@@ -201,6 +201,7 @@
 3. An Evaluation of Log Parsing with ChatGPT. _Van-Hoang Le et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.01590)]
 
 ## Where to evaluate
+The paper lists 13 popular benchmarks. For better summarization, these benchmarks are divided into two categories: general language task benchmarks and specific downstream task benchmarks.
 | Benchmark   | Focus                              | Domain                   | Evaluation Criteria                           |
 |-------------|------------------------------------|--------------------------|-----------------------------------------------|
 | AlpacaEval  | Automated Evaluation               | General language task    | Metrics, Robustness, Diversity                |
@@ -219,7 +220,6 @@
 | SOCKET      | Sociability                        | Specific downstream task | Coherence, Contextual Understanding           |
 | API-Bank    | Tool-augmented                     | Specific downstream task | Metrics                                       |
 | ToolBench   | Software tools                     | Specific downstream task | Execution success rate                        |
-
 
 ## How to evaluate
 ### Automatic evaluation
