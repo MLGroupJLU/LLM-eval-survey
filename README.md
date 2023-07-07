@@ -7,7 +7,7 @@
   Yupeng Chang<sup>*1</sup>&nbsp&nbsp
   Xu Wang<sup>*1</sup>&nbsp&nbsp
   Jindong Wang<sup>#2</sup>&nbsp&nbsp
-  Yuan Wu<sup>#1</sup> 
+  Yuan Wu<sup>#1</sup>   
   Kaijie Zhu<sup>3</sup>&nbsp&nbsp  
   Hao Chen<sup>4</sup>&nbsp&nbsp  
   Linyi Yang<sup>5</sup>&nbsp&nbsp 
