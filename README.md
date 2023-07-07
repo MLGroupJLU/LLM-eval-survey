@@ -258,8 +258,8 @@ The paper lists 13 popular benchmarks. For better summarization, these benchmark
 | Big-Bench [[paper](https://arxiv.org/abs/2206.04615)][[GitHub](https://github.com/google/BIG-bench)]    | Language Model Evaluation          | General language task | Various Metrics, Model Comparisons            |
 | C-Eval [[paper](https://arxiv.org/abs/2305.08322)][[GitHub](https://github.com/SJTU-LIT/ceval)]      | Chinese Evaluation                 | General language task | 52 Exams in a Chinese Context   |
 | MT-Bench [[paper](https://arxiv.org/abs/2306.05685)]  | Multi-turn Conversation      | General language task    | Winrate Judged by GPT-4                |
-| Chatbot Arena [[paper](https://arxiv.org/abs/2306.05685)]  | Response Quality      | General language task    | Crowdsourcing and Elo Rating System                 |
-| Leaderboard [[Link](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)] | Language Model Evaluation          | General language task | Task-Specific Metrics, Leaderboard Rankings   |
+| Chatbot Arena [[Link](https://lmsys.org/blog/2023-05-03-arena/)]  | Response Quality      | General language task    | Crowdsourcing and Elo Rating System                 |
+| OpenLLM [[Link](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)] | Language Model Evaluation          | General language task | Task-Specific Metrics, Leaderboard Rankings   |
 | M3Exam [[paper](https://arxiv.org/abs/2306.05179)] [[GitHub](https://github.com/DAMO-NLP-SG/M3Exam)]     | Multilingual Multimodal Multilevel | Specific downstream task | Task-Specific Metrics                         |
 | MultiMedQA [[paper](https://arxiv.org/abs/2212.13138)]  | Medical Question Answering         | Specific downstream task | Accuracy, Medical Knowledge, Reasoning Ability       |
 | SOCKET [[paper](https://arxiv.org/abs/2305.14938)]      | Sociability                        | Specific downstream task | Coherence, Contextual Understanding           |
