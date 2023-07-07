@@ -246,26 +246,27 @@ The paper lists 13 popular benchmarks. For better summarization, these benchmark
 |-------------|------------------------------------|--------------------------|-----------------------------------------------|
 | AlpacaEval[[GitHub](https://github.com/tatsu-lab/alpaca_eval)]  | Automated Evaluation               | General language task    | Metrics, Robustness, Diversity                |
 | AGIEval[[paper](https://arxiv.org/abs/2304.06364)]     | Human-centered Foundational Models | General language task    | General                                       |
-| GLUE-X [[paper](https://arxiv.org/abs/2211.08073)] [[GitHub](https://github.com/YangLinyi/GLUE-X)]     | Natural Language Understanding     | General language task    | Metrics, OOD Robustness                       |
-| KoLA [[papeer](https://arxiv.org/abs/2306.09296)]       | Knowledge-Oriented Evaluation      | General language task    | Overall standard scores, Self-contrast metric |
+| GLUE-X [[paper](https://arxiv.org/abs/2211.08073)] [[GitHub](https://github.com/YangLinyi/GLUE-X)]     | Natural Language Understanding     | General language task    | OOD Robustness                       |
+| KoLA [[papeer](https://arxiv.org/abs/2306.09296)]       | Knowledge-Oriented Evaluation      | General language task    | Self-contrast Metrics |
 | DynaBench [[paper](https://arxiv.org/abs/2104.14337)]   | Dynamic Evaluation                 | General language task    | NLI, QA, Sentiment, Hate speech               |
-| PromptBench [[paper](https://arxiv.org/abs/2306.04528)] [[GitHub](https://github.com/microsoft/promptbench)] | Adversarial Prompt Resilience      | General language task    | Prompt Design, Robustness                     |
-| PandaLM [[paper](https://arxiv.org/abs/2306.05087)] [[GitHub](https://github.com/WeOpenML/PandaLM)]     | Automatic Evaluation               | General language task    | Model Performance Reliability                 |
+| PromptBench [[paper](https://arxiv.org/abs/2306.04528)] [[GitHub](https://github.com/microsoft/promptbench)] | Adversarial Prompt Resilience      | General language task    | Adversarial Robustness                    |
+| PandaLM [[paper](https://arxiv.org/abs/2306.05087)] [[GitHub](https://github.com/WeOpenML/PandaLM)]     | Automatic Evaluation               | General language task    | Winrate Judged by PandaLM             |
 | HELM [[paper](https://arxiv.org/abs/2211.09110)]        | Comprehensive Evaluation           | General language task    | Task-Specific Metrics                         |
-| Big-Bench [[paper](https://arxiv.org/abs/2206.04615)][[GitHub](https://github.com/google/BIG-bench)]    | Language Model Evaluation          | Specific downstream task | Various Metrics, Model Comparisons            |
-| C-Eval [[paper](https://arxiv.org/abs/2305.08322)][[GitHub](https://github.com/SJTU-LIT/ceval)]      | Chinese Evaluation                 | Specific downstream task | Advanced knowledge, Reasoning abilities       |
-| Leaderboard [[Link](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)] | Language Model Evaluation          | Specific downstream task | Task-Specific Metrics, Leaderboard Rankings   |
+| Big-Bench [[paper](https://arxiv.org/abs/2206.04615)][[GitHub](https://github.com/google/BIG-bench)]    | Language Model Evaluation          | General language task | Various Metrics, Model Comparisons            |
+| C-Eval [[paper](https://arxiv.org/abs/2305.08322)][[GitHub](https://github.com/SJTU-LIT/ceval)]      | Chinese Evaluation                 | General language task | 52 Exams in a Chinese Context   |
+| MT-Bench[[paper](https://arxiv.org/abs/2306.05685)]  | Multi-turn conversation               | General language task    | Winrate Judged by GPT-4                |
+| Chatbot Arena[[paper](https://arxiv.org/abs/2306.05685)]  | Anonymous battles               | General language task    | Crowdsourcing and Elo Rating System                 |
+| Leaderboard [[Link](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)] | Language Model Evaluation          | General language task | Task-Specific Metrics, Leaderboard Rankings   |
 | M3Exam [[paper](https://arxiv.org/abs/2306.05179)] [[GitHub](https://github.com/DAMO-NLP-SG/M3Exam)]     | Multilingual Multimodal Multilevel | Specific downstream task | Task-Specific Metrics                         |
-| MultiMedQA [[paper](https://arxiv.org/abs/2212.13138)]  | Medical Question Answering         | Specific downstream task | Accuracy, Medical Knowledge, Reasoning        |
+| MultiMedQA [[paper](https://arxiv.org/abs/2212.13138)]  | Medical Question Answering         | Specific downstream task | Accuracy, Medical Knowledge, Reasoning Ability       |
 | SOCKET [[paper](https://arxiv.org/abs/2305.14938)]      | Sociability                        | Specific downstream task | Coherence, Contextual Understanding           |
 | API-Bank [[paper](https://arxiv.org/abs/2304.08244)]    | Tool-augmented                     | Specific downstream task | Metrics                                       |
-| ToolBench [[GitHub](https://github.com/sambanova/toolbench)]  | Software tools                     | Specific downstream task | Execution success rate                        |
-| MT-Bench[[paper](https://arxiv.org/abs/2306.05685)]  | Multi-turn conversation               | General language task    | Metrics                |
-| Chatbot Arena[[paper](https://arxiv.org/abs/2306.05685)]  | Anonymous battles               | General language task    |Metrics                  |
+| ToolBench [[GitHub](https://github.com/sambanova/toolbench)]  | Software tools                     | Specific downstream task | Execution Success Rate                        |
+
 
 ## How to evaluate
 ### Automatic evaluation
-1. Is chatgpt a general-purpose natural language processing task solver? _Chengwei Qin et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2302.06476)]
+1. Is ChatGPT a general-purpose natural language processing task solver? _Chengwei Qin et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2302.06476)]
 2. A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity. _Yejin Bang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2302.04023)]
 3. LLM-Eval: Unified Multi-Dimensional Automatic Evaluation for Open-Domain Conversations with Large Language Models. _Yen-Ting Lin et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.13711)]
 4.  PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization. _Yidong Wang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.05087)]
