@@ -227,3 +227,23 @@ The paper lists 13 popular benchmarks. For better summarization, these benchmark
 
 ## Contributors
 
+```plaintext
+Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Kaijie Zhu, Hao Chen, Linyi Yang, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang, Wei Ye, Yue Zhang, Yi Chang, Philip S. Yu, Qiang Yang, and Xing Xie, "A Survey on Evaluation of Large Language Models," arXiv preprint arXiv:2307.03109, 2023.
+```
+We welcome contributions to this project. If you have any ideas, issues, please feel free to submit a pull request or open an issue. Your contributions are greatly appreciated!
+
+
+## Citation
+
+If you find this project useful in your research or work, please consider citing it:
+
+```plaintext
+@misc{chang2023survey,
+      title={A Survey on Evaluation of Large Language Models}, 
+      author={Yupeng Chang and Xu Wang and Jindong Wang and Yuan Wu and Kaijie Zhu and Hao Chen and Linyi Yang and Xiaoyuan Yi and Cunxiang Wang and Yidong Wang and Wei Ye and Yue Zhang and Yi Chang and Philip S. Yu and Qiang Yang and Xing Xie},
+      year={2023},
+      eprint={2307.03109},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
