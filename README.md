@@ -7,21 +7,19 @@
   Yupeng Chang<sup>*1</sup>&nbsp&nbsp
   Xu Wang<sup>*1</sup>&nbsp&nbsp
   Jindong Wang<sup>#2</sup>&nbsp&nbsp
-  Yuan Wu<sup>#1</sup> </p>
-<p align="center">
+  Yuan Wu<sup>#1</sup> 
   Kaijie Zhu<sup>3</sup>&nbsp&nbsp  
   Hao Chen<sup>4</sup>&nbsp&nbsp  
   Linyi Yang<sup>5</sup>&nbsp&nbsp 
   Xiaoyuan Yi<sup>2</sup>&nbsp&nbsp 
-  Cunxiang Wang<sup>5</sup> </p>
-<p align="center">
+  Cunxiang Wang<sup>5</sup>  
   Yidong Wang<sup>6</sup>&nbsp&nbsp
   Wei Ye<sup>6</sup>&nbsp&nbsp
   Yue Zhang<sup>5</sup> Yi Chang<sup>1</sup>&nbsp&nbsp
   Philip S. Yu<sup>7</sup>&nbsp&nbsp
   Qiang Yang<sup>8</sup>&nbsp&nbsp 
   Xing Xie<sup>2</sup>
-</p>
+</p>  
 
 <p align="center">
   <sup>*</sup>: Co-first Author&nbsp&nbsp 
@@ -29,13 +27,13 @@
 </p>
 
 <p align="center">
-<sup>1</sup> Jilin University
-<sup>2</sup> Microsoft Research Asia
-<sup>3</sup> Institute of Automation
-<sup>4</sup> Carnegie Mellon University
-<sup>5</sup> Westlake University
-<sup>6</sup> Peking University
-<sup>7</sup> University of Illinois
+<sup>1</sup> Jilin University,
+<sup>2</sup> Microsoft Research Asia,
+<sup>3</sup> Institute of Automation,
+<sup>4</sup> Carnegie Mellon University,
+<sup>5</sup> Westlake University,
+<sup>6</sup> Peking University,
+<sup>7</sup> University of Illinois,
 <sup>8</sup> Hong Kong University of Science and Technology
 </p>
 
