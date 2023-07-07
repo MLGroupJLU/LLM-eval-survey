@@ -23,8 +23,12 @@
   Xing Xie<sup>2</sup>
 </p>
 
-<sup>*</sup>: Co-first Author
-<sup>#</sup>: Co-corresponding Authors
+<p align="center">
+  <sup>*</sup>: Co-first Author&nbsp&nbsp 
+  <sup>#</sup>: Co-corresponding Authors
+</p>
+
+
 <sup>1</sup> Jilin University
 <sup>2</sup> Microsoft Research Asia
 <sup>3</sup> Institute of Automation
