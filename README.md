@@ -239,6 +239,13 @@ Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Kaijie Zhu, Hao Chen, Linyi Yang, 
 ```
 We welcome contributions to this project. If you have any ideas, issues, please feel free to submit a pull request or open an issue. Your contributions are greatly appreciated!
 
+## Conrtibuting
+We welcome contributions to LLM-eval-survey! If you'd like to contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch with your changes.
+3. Submit a pull request with a clear description of your changes.
+
 
 ## Citation
 
