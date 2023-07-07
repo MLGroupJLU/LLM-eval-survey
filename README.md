@@ -268,6 +268,9 @@ The paper lists 13 popular benchmarks. For better summarization, these benchmark
 
 
 ## How to evaluate
+
+Note that regarding to how to evaluate, all papers in "what to evaluate" can be referenced. We only listed some that are not listed in above sections.
+
 ### Automatic evaluation
 1. Is ChatGPT a general-purpose natural language processing task solver? _Chengwei Qin et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2302.06476)]
 2. A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity. _Yejin Bang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2302.04023)]
@@ -293,13 +296,11 @@ You can also open an issue if you have anything to add or comment.
 
 If you find this project useful in your research or work, please consider citing it:
 
-```plaintext
-@misc{chang2023survey,
+```
+@article{chang2023survey,
       title={A Survey on Evaluation of Large Language Models}, 
-      author={Yupeng Chang and Xu Wang and Jindong Wang and Yuan Wu and Kaijie Zhu and Hao Chen and Linyi Yang and Xiaoyuan Yi and Cunxiang Wang and Yidong Wang and Wei Ye and Yue Zhang and Yi Chang and Philip S. Yu and Qiang Yang and Xing Xie},
-      year={2023},
-      eprint={2307.03109},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+      author={Chang, Yupeng and Wang, Xu and Wang, Jindong and Wu, Yuan and Zhu, Kaijie and Chen, Hao and Yang, Linyi and Yi, Xiaoyuan and Wang, Cunxiang and Wang, Yidong and Ye, Wei and Zhang, Yue and Chang, Yi and Yu, Philip S. and Yang, Qiang and Xie, Xing},
+      journal={arXiv preprint arXiv:2307.03109},
+      year={2023}
 }
 ```
