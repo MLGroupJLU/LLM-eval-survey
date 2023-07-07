@@ -2,9 +2,8 @@
   <br>
   <img src="imgs/logo-llmeval.png" alt="LLM evaluation" width="500">
 </h1>
-
-<center>1</center>  
-<p align="center">HelloWorld</p>  
+ 
+<p align="center">Yupeng Chang<sup>*1</sup>  Xu Wang<sup>*1</sup>  Jindong Wang<sup>#2</sup>  Yuan Wu<sup>#1</sup> </p>  
 
 Yupeng Chang<sup>*1</sup>  Xu Wang<sup>*1</sup>  Jindong Wang<sup>#2</sup>  Yuan Wu<sup>#1</sup>  
 Kaijie Zhu<sup>3</sup>  Hao Chen<sup>4</sup>  Linyi Yang<sup>5</sup> 
