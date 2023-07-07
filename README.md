@@ -212,7 +212,7 @@ The paper lists 13 popular benchmarks. For better summarization, these benchmark
 | PromptBench [[paper](https://arxiv.org/abs/2306.04528)] [[GitHub](https://github.com/microsoft/promptbench)] | Adversarial Prompt Resilience      | General language task    | Prompt Design, Robustness                     |
 | PandaLM [[paper](https://arxiv.org/abs/2306.05087)] [[GitHub](https://github.com/WeOpenML/PandaLM)]     | Automatic Evaluation               | General language task    | Model Performance Reliability                 |
 | HELM [[paper](https://arxiv.org/abs/2211.09110)]        | Comprehensive Evaluation           | General language task    | Task-Specific Metrics                         |
-| Big-Bench   | Language Model Evaluation          | Specific downstream task | Various Metrics, Model Comparisons            |
+| Big-Bench [[paper](https://arxiv.org/abs/2206.04615)]    | Language Model Evaluation          | Specific downstream task | Various Metrics, Model Comparisons            |
 | C-Eval      | Chinese Evaluation                 | Specific downstream task | Advanced knowledge, Reasoning abilities       |
 | Leaderboard | Language Model Evaluation          | Specific downstream task | Task-Specific Metrics, Leaderboard Rankings   |
 | M3Exam      | Multilingual Multimodal Multilevel | Specific downstream task | Task-Specific Metrics                         |
