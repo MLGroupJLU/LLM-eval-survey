@@ -204,7 +204,7 @@
 The paper lists 13 popular benchmarks. For better summarization, these benchmarks are divided into two categories: general language task benchmarks and specific downstream task benchmarks.
 | Benchmark   | Focus                              | Domain                   | Evaluation Criteria                           |
 |-------------|------------------------------------|--------------------------|-----------------------------------------------|
-| AlpacaEval  | Automated Evaluation               | General language task    | Metrics, Robustness, Diversity                |
+| [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval)  | Automated Evaluation               | General language task    | Metrics, Robustness, Diversity                |
 | AGIEval     | Human-centered Foundational Models | General language task    | General                                       |
 | GLUE-X      | Natural Language Understanding     | General language task    | Metrics, OOD Robustness                       |
 | KoLA        | Knowledge-Oriented Evaluation      | General language task    | Overall standard scores, Self-contrast metric |
