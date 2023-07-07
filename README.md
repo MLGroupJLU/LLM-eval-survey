@@ -244,6 +244,8 @@
 The paper lists 13 popular benchmarks. For better summarization, these benchmarks are divided into two categories: general language task benchmarks and specific downstream task benchmarks.
 | Benchmark   | Focus                              | Domain                   | Evaluation Criteria                           |
 |-------------|------------------------------------|--------------------------|-----------------------------------------------|
+| MT-Bench[[paper](https://arxiv.org/abs/2306.05685)]  |                | General language task    |                 |
+| Chatbot Arena[[paper](https://arxiv.org/abs/2306.05685)]  |                | General language task    |                  |
 | AlpacaEval[[GitHub](https://github.com/tatsu-lab/alpaca_eval)]  | Automated Evaluation               | General language task    | Metrics, Robustness, Diversity                |
 | AGIEval[[paper](https://arxiv.org/abs/2304.06364)]     | Human-centered Foundational Models | General language task    | General                                       |
 | GLUE-X [[paper](https://arxiv.org/abs/2211.08073)] [[GitHub](https://github.com/YangLinyi/GLUE-X)]     | Natural Language Understanding     | General language task    | Metrics, OOD Robustness                       |
