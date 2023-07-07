@@ -9,7 +9,6 @@
 
 ![](imgs/framework.png)
 
-# Table of Contents
 ## What to evaluate
 ### Natural language processing
 **Natural language understanding**  
