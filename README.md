@@ -232,12 +232,6 @@ The paper lists 13 popular benchmarks. For better summarization, these benchmark
 3. Sparks of artificial general intelligence: Early experiments with gpt-4. _Sébastien Bubeck et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2303.12712)]
 4. Can large language models transform computational social science? _Caleb Ziems et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.03514)]
 
-## Contributors
-
-```plaintext
-Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Kaijie Zhu, Hao Chen, Linyi Yang, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang, Wei Ye, Yue Zhang, Yi Chang, Philip S. Yu, Qiang Yang, and Xing Xie, "A Survey on Evaluation of Large Language Models," arXiv preprint arXiv:2307.03109, 2023.
-```
-
 ## Conrtibuting
 We welcome contributions to LLM-eval-survey! If you'd like to contribute, please follow these steps:
 
