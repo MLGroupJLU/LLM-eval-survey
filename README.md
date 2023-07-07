@@ -3,6 +3,7 @@
   <img src="imgs/logo-llmeval.png" alt="LLM evaluation" width="500">
 </h1>
 
+<center>这一行需要居中</center>
 Yupeng Chang<sup>*1</sup>  Xu Wang<sup>*1</sup>  Jindong Wang<sup>#2</sup>  Yuan Wu<sup>#1</sup>  
 Kaijie Zhu<sup>3</sup>  Hao Chen<sup>4</sup>  Linyi Yang<sup>5</sup> 
 Xiaoyuan Yi<sup>2</sup>
