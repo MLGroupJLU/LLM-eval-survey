@@ -13,7 +13,7 @@
   Hao Chen<sup>4</sup>&nbsp&nbsp  
   Linyi Yang<sup>5</sup>&nbsp&nbsp 
   Xiaoyuan Yi<sup>2</sup>&nbsp&nbsp 
-  Cunxiang Wang<sup>5</sup> </p> 
+  Cunxiang Wang<sup>5</sup> </p>
 <p align="center">
   Yidong Wang<sup>6</sup>&nbsp&nbsp
   Wei Ye<sup>6</sup>&nbsp&nbsp
@@ -28,7 +28,7 @@
   <sup>#</sup>: Co-corresponding Authors
 </p>
 
-
+<p align="center">
 <sup>1</sup> Jilin University
 <sup>2</sup> Microsoft Research Asia
 <sup>3</sup> Institute of Automation
@@ -37,6 +37,9 @@
 <sup>6</sup> Peking University
 <sup>7</sup> University of Illinois
 <sup>8</sup> Hong Kong University of Science and Technology
+</p>
+
+
 
 # LLM-eval-survey
 > A collection of papers and resources related to Evaluation on Large Language Model.  
