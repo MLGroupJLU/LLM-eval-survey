@@ -19,7 +19,7 @@ Qiang Yang<sup>8</sup>
 and Xing Xie<sup>2</sup>
 
 <sup>*</sup>: Co-first Author
-<sup>&#x271D</sup>: Co-corresponding Authors
+<sup>&#x271D;</sup>: Co-corresponding Authors
 <sup>1</sup> Jilin University
 <sup>2</sup> Microsoft Research Asia
 <sup>3</sup> Institute of Automation
