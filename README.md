@@ -18,7 +18,8 @@
 <p align="center">
   Yidong Wang<sup>6</sup>&nbsp&nbsp
   Wei Ye<sup>6</sup>&nbsp&nbsp
-  Yue Zhang<sup>5</sup> Yi Chang<sup>1</sup>&nbsp&nbsp
+  Yue Zhang<sup>5</sup>&nbsp&nbsp 
+  Yi Chang<sup>1</sup>&nbsp&nbsp
   Philip S. Yu<sup>7</sup>&nbsp&nbsp
   Qiang Yang<sup>8</sup>&nbsp&nbsp 
   Xing Xie<sup>2</sup>
