@@ -86,7 +86,7 @@ For the **latest version** of the paper, keep an eye on the [releases](https://g
 
 #### Natural language understanding
 
-##### Setiment analysis
+##### Sentiment analysis
 1. Holistic evaluation of language models. _Percy Liang et al._ arXiv 2022. [[paper](https://arxiv.org/abs/2211.09110)]
 2. Can chatgpt forecast stock price movements? return predictability and large language models. _Alejandro Lopez-Lira et al._ SSRN 2023. [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412788)]
 3. Is chatgpt a general-purpose natural language processing task solver? _Chengwei Qin et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2302.06476)]
@@ -120,6 +120,8 @@ For the **latest version** of the paper, keep an eye on the [releases](https://g
 8. Are large language models really good logical reasoners? a comprehensive evaluation from deductive, inductive and abductive views. _Fangzhi Xu et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.09841)]
 9. Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4. _Hanmeng Liu et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2304.03439)]
 10. A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark Datasets, _Laskar et al._ ACL 2023 (Findings). [[paper](https://arxiv.org/abs/2305.18486)]
+11. MindGames: Targeting Theory of Mind in Large Language Models with Dynamic Epistemic Modal Logic _Sileo et Lernould_ arXiv 2023. [[paper](https://arxiv.org/abs/2305.03353)]
+
 
 #### Natural language generation
 
