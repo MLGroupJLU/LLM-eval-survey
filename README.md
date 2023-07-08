@@ -37,8 +37,7 @@
 
 
 
-# LLM-eval-survey
-> A collection of papers and resources related to Evaluation on Large Language Model.  
+# Papers and resources for LLMs evaluation
 
 The papers are organized according to our survey: [A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109). 
 
