@@ -36,12 +36,11 @@
 </p>
 
 
-
 # Papers and resources for LLMs evaluation
 
 The papers are organized according to our survey: [A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109). 
 
-**NOTE:** As we cannot update the arXiv paper in real time, please refer to this repo for the latest updates and the paper may be updated later. We also welcome any pull request or issues to help us make this survey perfect. Your contributions will be acknowledged in [acknowledgements].
+**NOTE:** As we cannot update the arXiv paper in real time, please refer to this repo for the latest updates and the paper may be updated later. We also welcome any pull request or issues to help us make this survey perfect. Your contributions will be acknowledged in <a href="#acknowledgements">acknowledgements</a>.
 
 ![](imgs/framework.png)
 
@@ -71,7 +70,7 @@ The papers are organized according to our survey: [A Survey on Evaluation of Lar
     </li>
     <li><a href="#Contributing">Contributing</a></li>
     <li><a href="#citation">Citation</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#acknowledgements">Acknowledgments</a></li>
   </ol>
 </details>
 
