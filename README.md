@@ -42,6 +42,8 @@ The papers are organized according to our survey: [A Survey on Evaluation of Lar
 
 **NOTE:** As we cannot update the arXiv paper in real time, please refer to this repo for the latest updates and the paper may be updated later. We also welcome any pull request or issues to help us make this survey perfect. Your contributions will be acknowledged in <a href="#acknowledgements">acknowledgements</a>.
 
+For the **latest version** of the paper, keep an eye on the [releases](https://github.com/MLGroupJLU/LLM-eval-survey/releases) section.
+
 ![](imgs/framework.png)
 
 <details>
