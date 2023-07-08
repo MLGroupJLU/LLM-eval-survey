@@ -93,6 +93,8 @@ For the **latest version** of the paper, keep an eye on the [releases](https://g
 4. A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity. _Yejin Bang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2302.04023)]
 5. Sentiment analysis in the era of large language models: A reality check. _Wenxuan Zhang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.15005)]
 6. A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark Datasets, _Laskar et al._ ACL 2023 (Findings). [[paper](https://arxiv.org/abs/2305.18486)]
+7. Is ChatGPT a Good Sentiment Analyzer? A Preliminary Study. _Zengzhi Wang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2304.04339)]
+8. A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark Datasets. _Md Tahmid Rahman Laskar et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.18486)]
    
 ##### Text classification
 1. Holistic evaluation of language models. _Percy Liang et al._ arXiv 2022. [[paper](https://arxiv.org/abs/2211.09110)]
@@ -202,6 +204,7 @@ For the **latest version** of the paper, keep an eye on the [releases](https://g
 2. Can large language models transform computational social science? _Caleb Ziems et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.03514)]
 3. How ready are pre-trained abstractive models and llms for legal case judgement summarization. _Aniket Deroy et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.01248)]
 4. Large Language Models as Tax Attorneys: A Case Study in Legal Capabilities Emergence. _John J. Nay et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.07075)]
+5. Baby steps in evaluating the capacities of large language models. _Michael C. Frank_ Nature Reviews Psychology 2023. [[paper](https://www.nature.com/articles/s44159-023-00211-x)]
 
 ### Natural science and engineering
 
@@ -213,6 +216,7 @@ For the **latest version** of the paper, keep an eye on the [releases](https://g
 5. Investigating the effectiveness of chatgpt in mathematical reasoning and problem solving: Evidence from the vietnamese national high school graduation examination. _Xuan-Quy Dao et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.06331)]
 6. CMATH: Can Your Language Model Pass Chinese Elementary School Math Test? _Tianwen Wei et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.16636)]
 7. A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark Datasets, _Laskar et al._ ACL 2023 (Findings). [[paper](https://arxiv.org/abs/2305.18486)]
+8. Sparks of artificial general intelligence: Early experiments with gpt-4. _Sébastien Bubeck et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2303.12712)]
    
 #### Science
 1. Do Large Language Models Understand Chemistry? A Conversation with ChatGPT. _Castro Nascimento C M et al._ JCIM 2023. [[paper](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00285)]
@@ -224,6 +228,7 @@ For the **latest version** of the paper, keep an eye on the [releases](https://g
 3. Large language models still can’t plan (a benchmark for llms on planning and reasoning about change). _Karthik Valmeekam et al._ arXiv 2022. [[paper](https://arxiv.org/abs/2206.10498)]
 4. On the planning abilities of large language models–a critical investigation. _Karthik Valmeekam et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2302.06706)]
 5. Understanding the capabilities of large language models for automated planning. _Vishal Pallagani et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.16151)]
+6. Sparks of artificial general intelligence: Early experiments with gpt-4. _Sébastien Bubeck et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2303.12712)]
 
 ### Medical applications
 
@@ -291,24 +296,27 @@ The paper lists several popular benchmarks. For better summarization, these benc
 
 | Benchmark   | Focus                              | Domain                   | Evaluation Criteria                           |
 |-------------|------------------------------------|--------------------------|-----------------------------------------------|
-| AlpacaEval [[GitHub](https://github.com/tatsu-lab/alpaca_eval)]  | Automated Evaluation               | General language task    | Metrics, Robustness, Diversity                |
-| AGIEval [[paper](https://arxiv.org/abs/2304.06364)]     | Human-centered Foundational Models | General language task    | General                                       |
-| GLUE-X [[paper](https://arxiv.org/abs/2211.08073)] [[GitHub](https://github.com/YangLinyi/GLUE-X)]     | Natural Language Understanding     | General language task    | OOD Robustness                       |
-| KoLA [[papeer](https://arxiv.org/abs/2306.09296)]       | Knowledge-Oriented Evaluation      | General language task    | Self-contrast Metrics |
-| DynaBench [[paper](https://arxiv.org/abs/2104.14337)]   | Dynamic Evaluation                 | General language task    | NLI, QA, Sentiment, Hate speech               |
-| PromptBench [[paper](https://arxiv.org/abs/2306.04528)] [[GitHub](https://github.com/microsoft/promptbench)] | Adversarial Prompt Resilience      | General language task    | Adversarial Robustness                    |
-| PandaLM [[paper](https://arxiv.org/abs/2306.05087)] [[GitHub](https://github.com/WeOpenML/PandaLM)]     | Automatic Evaluation               | General language task    | Winrate Judged by PandaLM             |
-| HELM [[paper](https://arxiv.org/abs/2211.09110)]        | Comprehensive Evaluation           | General language task    | Task-Specific Metrics                         |
-| Big-Bench [[paper](https://arxiv.org/abs/2206.04615)][[GitHub](https://github.com/google/BIG-bench)]    | Language Model Evaluation          | General language task | Various Metrics, Model Comparisons            |
-| C-Eval [[paper](https://arxiv.org/abs/2305.08322)][[GitHub](https://github.com/SJTU-LIT/ceval)]      | Chinese Evaluation                 | General language task | 52 Exams in a Chinese Context   |
-| MT-Bench [[paper](https://arxiv.org/abs/2306.05685)]  | Multi-turn Conversation      | General language task    | Winrate Judged by GPT-4                |
-| Chatbot Arena [[Link](https://lmsys.org/blog/2023-05-03-arena/)]  | Response Quality      | General language task    | Crowdsourcing and Elo Rating System                 |
-| OpenLLM [[Link](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)] | Language Model Evaluation          | General language task | Task-Specific Metrics, Leaderboard Rankings   |
-| M3Exam [[paper](https://arxiv.org/abs/2306.05179)] [[GitHub](https://github.com/DAMO-NLP-SG/M3Exam)]     | Multilingual Multimodal Multilevel | Specific downstream task | Task-Specific Metrics                         |
-| MultiMedQA [[paper](https://arxiv.org/abs/2212.13138)]  | Medical Question Answering         | Specific downstream task | Accuracy, Medical Knowledge, Reasoning Ability       |
-| SOCKET [[paper](https://arxiv.org/abs/2305.14938)]      | Sociability                        | Specific downstream task | Coherence, Contextual Understanding           |
+| SOCKET [[paper](https://arxiv.org/abs/2305.14938)]      | Sociability                        | Specific downstream task | Coherence, Contextual understanding           |
+| MMLU [[paper](https://arxiv.org/abs/2009.03300)]      | Text model                        | General language task | Multitask accuracy           |
+| C-Eval [[paper](https://arxiv.org/abs/2305.08322)][[GitHub](https://github.com/SJTU-LIT/ceval)]      | Chinese evaluation                 | General language task | 52 Exams in a Chinese context   |
+| OpenLLM [[Link](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)] | Language model evaluation          | General language task | Task-specific metrics, Leaderboard rankings   |
+| DynaBench [[paper](https://arxiv.org/abs/2104.14337)]   | Dynamic evaluation                 | General language task    | NLI, QA, Sentiment, Hate speech               |
+| Chatbot Arena [[Link](https://lmsys.org/blog/2023-05-03-arena/)]  | Response quality      | General language task    | Crowdsourcing and Elo rating system              |
+| AlpacaEval [[GitHub](https://github.com/tatsu-lab/alpaca_eval)]  | Automated evaluation               | General language task    | Metrics, Robustness, Diversity       |
+| HELM [[paper](https://arxiv.org/abs/2211.09110)]        | Comprehensive evaluation           | General language task    | Task-specific metrics                         |
 | API-Bank [[paper](https://arxiv.org/abs/2304.08244)]    | Tool-augmented                     | Specific downstream task | Metrics                                       |
-| ToolBench [[GitHub](https://github.com/sambanova/toolbench)]  | Software tools                     | Specific downstream task | Execution Success Rate                        |
+| Big-Bench [[paper](https://arxiv.org/abs/2206.04615)][[GitHub](https://github.com/google/BIG-bench)]    | Language model evaluation          | General language task | Various Metrics, Model Comparisons            |
+| MultiMedQA [[paper](https://arxiv.org/abs/2212.13138)]  | Medical QA       | Specific downstream task | Accuracy, Medical knowledge, Reasoning ability|
+| ToolBench [[GitHub](https://github.com/sambanova/toolbench)]  | Software tools                     | Specific downstream task | Execution success rate                  |
+| PandaLM [[paper](https://arxiv.org/abs/2306.05087)] [[GitHub](https://github.com/WeOpenML/PandaLM)]     | Automatic evaluation               | General language task    | Winrate Judged by PandaLM             |
+| GLUE-X [[paper](https://arxiv.org/abs/2211.08073)] [[GitHub](https://github.com/YangLinyi/GLUE-X)]     | Natural language understanding     | General language task    | OOD Robustness                       |
+| KoLA [[papeer](https://arxiv.org/abs/2306.09296)]       | Knowledge-oriented evaluation      | General language task    | Self-contrast metrics |
+| AGIEval [[paper](https://arxiv.org/abs/2304.06364)]     | Human-centered foundational models | General language task    | General                                       |
+| PromptBench [[paper](https://arxiv.org/abs/2306.04528)] [[GitHub](https://github.com/microsoft/promptbench)] | Adversarial prompt resilience      | General language task    | Adversarial Robustness                    |
+| MT-Bench [[paper](https://arxiv.org/abs/2306.05685)]  | Multi-turn Conversation      | General language task    | Winrate judged by GPT-4                |
+| M3Exam [[paper](https://arxiv.org/abs/2306.05179)] [[GitHub](https://github.com/DAMO-NLP-SG/M3Exam)]     | Multilingual, Multimodal, Multilevel | Specific downstream task | Task-Specific Metrics                         |
+
+
 
 
 ## How to evaluate
