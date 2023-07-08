@@ -41,11 +41,9 @@
 
 The papers are organized according to our survey: [A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109). 
 
-**NOTE:** As we cannot update the arXiv paper in real time, please refer to this repo for the latest updates and the paper may be updated later. We also welcome any pull request or issues to help us make this survey perfect.
+**NOTE:** As we cannot update the arXiv paper in real time, please refer to this repo for the latest updates and the paper may be updated later. We also welcome any pull request or issues to help us make this survey perfect. Your contributions will be acknowledged in [acknowledgements].
 
 ![](imgs/framework.png)
-
-
 
 <details>
   <summary>Table of Contents</summary>
@@ -56,11 +54,11 @@ The papers are organized according to our survey: [A Survey on Evaluation of Lar
       <ul>
         <li><a href="#natural-language-processing">Natural language processing</a></li>
         <li><a href="#robustness-ethics-biases-and-trustworthiness">Robustness, ethics, biases, and trustworthiness</a></li>
-        <li><a href="#robustness-ethics-biases-and-trustworthiness">Natural science and engineering</a></li>
-        <li><a href="#robustness-ethics-biases-and-trustworthiness">Social science</a></li>
-        <li><a href="#robustness-ethics-biases-and-trustworthiness">Medical application</a></li>
-        <li><a href="#robustness-ethics-biases-and-trustworthiness">Agent applications</a></li>
-        <li><a href="#robustness-ethics-biases-and-trustworthiness">Other applications</a></li>
+        <li><a href="#social-science">Social science</a></li>
+        <li><a href="#natural-science-and-engineering">Natural science and engineering</a></li>
+        <li><a href="#medical-applications">Medical applications</a></li>
+        <li><a href="#agent-applications">Agent applications</a></li>
+        <li><a href="#other-applications">Other applications</a></li>
       </ul>
     </li>
     <li><a href="where-to-evaluate">Where to evaluate</a></li>
@@ -87,7 +85,7 @@ The papers are organized according to our survey: [A Survey on Evaluation of Lar
 
 #### Natural language understanding
 
-##### Setiment analysis:
+##### Setiment analysis
 1. Holistic evaluation of language models. _Percy Liang et al._ arXiv 2022. [[paper](https://arxiv.org/abs/2211.09110)]
 2. Can chatgpt forecast stock price movements? return predictability and large language models. _Alejandro Lopez-Lira et al._ SSRN 2023. [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412788)]
 3. Is chatgpt a general-purpose natural language processing task solver? _Chengwei Qin et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2302.06476)]
@@ -226,7 +224,7 @@ The papers are organized according to our survey: [A Survey on Evaluation of Lar
 4. On the planning abilities of large language models–a critical investigation. _Karthik Valmeekam et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2302.06706)]
 5. Understanding the capabilities of large language models for automated planning. _Vishal Pallagani et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.16151)]
 
-### Medical application
+### Medical applications
 
 #### Medical QA
 1. Trialling a Large Language Model (ChatGPT) in General Practice With the Applied Knowledge Test: Observational Study Demonstrating Opportunities and Limitations in Primary Care. _Arun James Thirunavukarasu et al._ JMIR Med Educ. 2023. [[paper](https://pubmed.ncbi.nlm.nih.gov/37083633/)]
