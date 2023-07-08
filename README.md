@@ -357,3 +357,4 @@ If you find this project useful in your research or work, please consider citing
 
 1. Tahmid Rahman ([@tahmedge](https://github.com/tahmedge)) for [PR#1](https://github.com/MLGroupJLU/LLM-eval-survey/pull/1).
 2. Hao Zhao for suggestions on new benchmarks.
+3. Chenhui Zhang for suggestions on robustness, ethics, and trustworthiness.
