@@ -371,3 +371,6 @@ If you find this project useful in your research or work, please consider citing
 1. Tahmid Rahman ([@tahmedge](https://github.com/tahmedge)) for [PR#1](https://github.com/MLGroupJLU/LLM-eval-survey/pull/1).
 2. Hao Zhao for suggestions on new benchmarks.
 3. Chenhui Zhang for suggestions on robustness, ethics, and trustworthiness.
+4. Damien Sileo ([@sileod](https://github.com/sileod)) for [PR#2](https://github.com/MLGroupJLU/LLM-eval-survey/pull/2).
+5. Peiyi Wang ([@Wangpeiyi9979](https://github.com/Wangpeiyi9979)) for [issue#3](https://github.com/MLGroupJLU/LLM-eval-survey/issues/3).
+6. Zengzhi Wang for sentiment analysis.
