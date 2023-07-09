@@ -92,9 +92,8 @@ For the **latest version** of the paper, keep an eye on the [releases](https://g
 3. Is chatgpt a general-purpose natural language processing task solver? _Chengwei Qin et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2302.06476)]
 4. A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity. _Yejin Bang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2302.04023)]
 5. Sentiment analysis in the era of large language models: A reality check. _Wenxuan Zhang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.15005)]
-6. A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark Datasets, _Laskar et al._ ACL 2023 (Findings). [[paper](https://arxiv.org/abs/2305.18486)]
-7. Is ChatGPT a Good Sentiment Analyzer? A Preliminary Study. _Zengzhi Wang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2304.04339)]
-8. A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark Datasets. _Md Tahmid Rahman Laskar et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.18486)]
+6. Is ChatGPT a Good Sentiment Analyzer? A Preliminary Study. _Zengzhi Wang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2304.04339)]
+7. A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark Datasets. _Md Tahmid Rahman Laskar et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.18486)]
    
 ##### Text classification
 1. Holistic evaluation of language models. _Percy Liang et al._ arXiv 2022. [[paper](https://arxiv.org/abs/2211.09110)]
