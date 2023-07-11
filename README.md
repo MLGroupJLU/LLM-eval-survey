@@ -310,7 +310,7 @@ The paper lists several popular benchmarks. For better summarization, these benc
 | AGIEval [[paper](https://arxiv.org/abs/2304.06364)]     | Human-centered foundational models | General language task    | General                                       |
 | PromptBench [[paper](https://arxiv.org/abs/2306.04528)] [[GitHub](https://github.com/microsoft/promptbench)] | Adversarial prompt resilience      | General language task    | Adversarial Robustness                    |
 | MT-Bench [[paper](https://arxiv.org/abs/2306.05685)]  | Multi-turn Conversation      | General language task    | Winrate judged by GPT-4                |
-| M3Exam [[paper](https://arxiv.org/abs/2306.05179)] [[GitHub](https://github.com/DAMO-NLP-SG/M3Exam)]     | Multilingual, Multimodal, Multilevel | Specific downstream task | Task-Specific Metrics                         |
+| M3Exam [[paper](https://arxiv.org/abs/2306.05179)] [[GitHub](https://github.com/DAMO-NLP-SG/M3Exam)]     | Human exams | Specific downstream task | Task-Specific Metrics                         |
 
 
 ## Conrtibuting
