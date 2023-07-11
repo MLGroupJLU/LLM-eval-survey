@@ -293,7 +293,7 @@ The paper lists several popular benchmarks. For better summarization, these benc
 | Benchmark   | Focus                              | Domain                   | Evaluation Criteria                           |
 |-------------|------------------------------------|--------------------------|-----------------------------------------------|
 | SOCKET [[paper](https://arxiv.org/abs/2305.14938)]      | Sociability                        | Specific downstream task | Coherence, Contextual understanding           |
-| Xiezhi [[paper](https://arxiv.org/abs/2306.05783)][[GitHub]([url](https://github.com/MikeGu721/XiezhiBenchmark))]      | Comprehensive domain knowledge   | General language task | Overall performance across multiple benchmarks   |
+| Xiezhi [[paper](https://arxiv.org/abs/2306.05783)][[GitHub](https://github.com/MikeGu721/XiezhiBenchmark)]      | Comprehensive domain knowledge   | General language task | Overall performance across multiple benchmarks   |
 | MMLU [[paper](https://arxiv.org/abs/2009.03300)]      | Text model                        | General language task | Multitask accuracy           |
 | C-Eval [[paper](https://arxiv.org/abs/2305.08322)][[GitHub](https://github.com/SJTU-LIT/ceval)]      | Chinese evaluation                 | General language task | 52 Exams in a Chinese context   |
 | OpenLLM [[Link](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)] | Language model evaluation          | General language task | Task-specific metrics, Leaderboard rankings   |
