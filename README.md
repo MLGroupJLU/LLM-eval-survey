@@ -63,13 +63,6 @@ For the **latest version** of the paper, keep an eye on the [releases](https://g
       </ul>
     </li>
     <li><a href="where-to-evaluate">Where to evaluate</a></li>
-    <li>
-      <a href="#how-to-evaluate">How to evaluate</a>
-      <ul>
-        <a href="#automatic-evaluation">Automatic evaluation</a>
-        <a href="#human-evaluation">Human evaluation</a>
-      </ul>
-    </li>
     <li><a href="#Contributing">Contributing</a></li>
     <li><a href="#citation">Citation</a></li>
     <li><a href="#acknowledgements">Acknowledgments</a></li>
@@ -319,28 +312,6 @@ The paper lists several popular benchmarks. For better summarization, these benc
 | MT-Bench [[paper](https://arxiv.org/abs/2306.05685)]  | Multi-turn Conversation      | General language task    | Winrate judged by GPT-4                |
 | M3Exam [[paper](https://arxiv.org/abs/2306.05179)] [[GitHub](https://github.com/DAMO-NLP-SG/M3Exam)]     | Multilingual, Multimodal, Multilevel | Specific downstream task | Task-Specific Metrics                         |
 
-
-
-
-## How to evaluate
-
-Note that regarding to how to evaluate, all papers in "what to evaluate" can be referenced. We only listed some that are not listed in above sections.
-
-### Automatic evaluation
-
-1. Is ChatGPT a general-purpose natural language processing task solver? _Chengwei Qin et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2302.06476)]
-2. A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity. _Yejin Bang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2302.04023)]
-3. LLM-Eval: Unified Multi-Dimensional Automatic Evaluation for Open-Domain Conversations with Large Language Models. _Yen-Ting Lin et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.13711)]
-4.  PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization. _Yidong Wang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.05087)]
-5.  A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark Datasets, _Laskar et al._ ACL 2023 (Findings). [[paper](https://arxiv.org/abs/2305.18486)]
-   
-### Human evaluation
-
-1. Holistic evaluation of language models. _Percy Liang et al._ arXiv 2022. [[paper](https://arxiv.org/abs/2211.09110)]
-2. A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity. _Yejin Bang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2302.04023)]
-3. Sparks of artificial general intelligence: Early experiments with gpt-4. _Sébastien Bubeck et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2303.12712)]
-4. Can large language models transform computational social science? _Caleb Ziems et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.03514)]
-5. A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark Datasets, _Laskar et al._ ACL 2023 (Findings). [[paper](https://arxiv.org/abs/2305.18486)]
 
 ## Conrtibuting
 
