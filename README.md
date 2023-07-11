@@ -300,7 +300,7 @@ The paper lists several popular benchmarks. For better summarization, these benc
 | Chatbot Arena [[Link](https://lmsys.org/blog/2023-05-03-arena/)]  | Response quality      | General language task    | Crowdsourcing and Elo rating system              |
 | AlpacaEval [[GitHub](https://github.com/tatsu-lab/alpaca_eval)]  | Automated evaluation               | General language task    | Metrics, Robustness, Diversity       |
 | HELM [[paper](https://arxiv.org/abs/2211.09110)]        | Comprehensive evaluation           | General language task    | Task-specific metrics                         |
-| API-Bank [[paper](https://arxiv.org/abs/2304.08244)]    | Tool-augmented                     | Specific downstream task | Metrics                                       |
+| API-Bank [[paper](https://arxiv.org/abs/2304.08244)]    | Tool-augmented                     | Specific downstream task | API call, Response, Planning                                       |
 | Big-Bench [[paper](https://arxiv.org/abs/2206.04615)][[GitHub](https://github.com/google/BIG-bench)]    | Language model evaluation          | General language task | Various Metrics, Model Comparisons            |
 | MultiMedQA [[paper](https://arxiv.org/abs/2212.13138)]  | Medical QA       | Specific downstream task | Accuracy, Medical knowledge, Reasoning ability|
 | ToolBench [[GitHub](https://github.com/sambanova/toolbench)]  | Software tools                     | Specific downstream task | Execution success rate                  |
