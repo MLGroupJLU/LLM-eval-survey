@@ -205,7 +205,7 @@ For the **latest version** of the paper, keep an eye on the [releases](https://g
 1. How well do Large Language Models perform in Arithmetic Tasks? _Zheng Yuan et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2304.02015)]
 2. Have LLMs Advanced Enough? A Challenging Problem Solving Benchmark for Large Language Models. _Daman Arora et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.15074)] 
 3. An empirical study on challenging math problem solving with GPT-4. _Yiran Wu et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.01337)]
-4. Evaluating language models for mathematics through interactions. _Katherine M. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.01694)]
+4. Evaluating Language Models for Mathematics through Interactions. _Katherine M. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.01694)]
 5. Investigating the effectiveness of ChatGPT in mathematical reasoning and problem solving: Evidence from the Vietnamese national high school graduation examination. _Xuan-Quy Dao et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.06331)]
 6. CMATH: Can Your Language Model Pass Chinese Elementary School Math Test? _Tianwen Wei et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.16636)]
 7. A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark Datasets, _Laskar et al._ ACL 2023 (Findings). [[paper](https://arxiv.org/abs/2305.18486)]
@@ -234,6 +234,7 @@ For the **latest version** of the paper, keep an eye on the [releases](https://g
 6. The promise and peril of using a large language model to obtain clinical information: ChatGPT performs strongly as a fertility counseling tool with limitation. _Joseph Chervenak M.D. et al._ Fertility and Sterility 2023. [[paper](https://www.sciencedirect.com/science/article/pii/S0015028223005228)]
 7. Evaluation of AI Chatbots for Patient-Specific EHR Questions. _Alaleh Hamidi et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.02549)]
 8. Evaluation of ChatGPT on Biomedical Tasks: A Zero-Shot Comparison with Fine-Tuned Generative Transformers. _Israt Jahan et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.04504)]
+9. CARE-MI: Chinese Benchmark for Misinformation Evaluation in Maternity and Infant Care. _Tong Xiang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2307.01458)]
    
 #### Medical examination
 1. How Does ChatGPT Perform on the United States Medical Licensing Examination? The Implications of Large Language Models for Medical Education and Knowledge Assessment. _Aidan Gilson et al._ JMIR Med Educ. 2023. [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9947764/)]
@@ -309,7 +310,7 @@ The paper lists several popular benchmarks. For better summarization, these benc
 | PromptBench [[paper](https://arxiv.org/abs/2306.04528)] [[GitHub](https://github.com/microsoft/promptbench)] | Adversarial prompt resilience      | General language task    | Adversarial Robustness                    |
 | MT-Bench [[paper](https://arxiv.org/abs/2306.05685)]  | Multi-turn Conversation      | General language task    | Winrate judged by GPT-4                |
 | M3Exam [[paper](https://arxiv.org/abs/2306.05179)] [[GitHub](https://github.com/DAMO-NLP-SG/M3Exam)]     | Human exams | Specific downstream task | Task-Specific Metrics                         |
-
+| CARE-MI [[paper](https://arxiv.org/abs/2307.01458)] [[GitHub](https://github.com/Meetyou-AI-Lab/CARE-MI)]     | Medical QA | Specific downstream task | Correctness, Interpretability                         |
 
 ## Contributing
 
