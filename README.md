@@ -98,7 +98,7 @@ For the **latest version** of the paper, keep an eye on the [releases](https://g
 2. Can Large Language Models Infer and Disagree like Humans? _Noah Lee et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.13788)]
 3. A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark Datasets, _Laskar et al._ ACL 2023 (Findings). [[paper](https://arxiv.org/abs/2305.18486)]
     
-##### Others:
+##### Others
 1. EvEval: A Comprehensive Evaluation of Event Semantics for Large Language Models. _Zhengwei Tao et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.15268)]
 2. The two word test: A semantic benchmark for large language models. _Nicholas Riccardi et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.04610)]
 3. Do LLMs Understand Social Knowledge? Evaluating the Sociability of Large Language Models with SocKET Benchmark. _Minje Choi et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.14938)]
@@ -115,8 +115,7 @@ For the **latest version** of the paper, keep an eye on the [releases](https://g
 9. Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4. _Hanmeng Liu et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2304.03439)]
 10. A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark Datasets, _Laskar et al._ ACL 2023 (Findings). [[paper](https://arxiv.org/abs/2305.18486)]
 11. MindGames: Targeting Theory of Mind in Large Language Models with Dynamic Epistemic Modal Logic _Sileo et Lernould_ arXiv 2023. [[paper](https://arxiv.org/abs/2305.03353)]
-
-
+   
 #### Natural language generation
 
 ##### Summarization  
@@ -174,7 +173,7 @@ For the **latest version** of the paper, keep an eye on the [releases](https://g
 6. A Survey on Out-of-Distribution Evaluation of Neural NLP Models. _Xinzhe Li et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.15261)]
 7. PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts. _Kaijie Zhu et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.04528)]
   
-#### Ethic and bias
+#### Ethics and bias
 1. RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models. _Samuel Gehman et al._ EMNLP 2020. [[paper](https://aclanthology.org/2020.findings-emnlp.301/)]
 2. Societal Biases in Language Generation: Progress and Challenges. _Emily Sheng et al._ ACL-IJCNLP 2021. [[paper](https://aclanthology.org/2021.acl-long.330/)]
 3. Exploring AI Ethics of ChatGPT: A Diagnostic Analysis. _Terry Yue Zhuo et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2301.12867)]
@@ -236,7 +235,7 @@ For the **latest version** of the paper, keep an eye on the [releases](https://g
 7. Evaluation of AI Chatbots for Patient-Specific EHR Questions. _Alaleh Hamidi et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.02549)]
 8. Evaluation of ChatGPT on Biomedical Tasks: A Zero-Shot Comparison with Fine-Tuned Generative Transformers. _Israt Jahan et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.04504)]
    
-#### Medical examization
+#### Medical examination
 1. How Does ChatGPT Perform on the United States Medical Licensing Examination? The Implications of Large Language Models for Medical Education and Knowledge Assessment. _Aidan Gilson et al._ JMIR Med Educ. 2023. [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9947764/)]
 2. Performance of ChatGPT on USMLE: Potential for AI-assisted medical education using large language models. _Tiffany H. Kung et al._ PLOS Digit Health. 2023. [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9931230/)]
    
@@ -244,7 +243,7 @@ For the **latest version** of the paper, keep an eye on the [releases](https://g
 1. ChatGPT goes to the operating room: Evaluating GPT-4 performance and its potential in surgical education and training in the era of large language models. _Namkee Oh et al._ Ann Surg Treat Res. 2023. [[paper](https://pubmed.ncbi.nlm.nih.gov/37179699/)]
 2. Translating Radiology Reports into Plain Language using ChatGPT and GPT-4 with Prompt Learning: Promising Results, Limitations, and Potential. _Qing Lyu et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2303.09038)]
    
-#### Medical assitants
+#### Medical assistants
 1. Evaluating the use of large language model in identifying top research questions in gastroenterology. _Adi Lahat et al._ Scientific reports 2023. [[paper](https://www.nature.com/articles/s41598-023-31412-2)]
 2. ChatGPT: A Study on its Utility for Ubiquitous Software Engineering Task. _Giriprasad Sridhara et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.16837)]
 3. Can LLMs like GPT-4 outperform traditional AI tools in dementia diagnosis? Maybe, but not today. _Zhuo Wang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.01499)]
@@ -344,4 +343,4 @@ If you find this project useful in your research or work, please consider citing
 4. Damien Sileo ([@sileod](https://github.com/sileod)) for [PR#2](https://github.com/MLGroupJLU/LLM-eval-survey/pull/2).
 5. Peiyi Wang ([@Wangpeiyi9979](https://github.com/Wangpeiyi9979)) for [issue#3](https://github.com/MLGroupJLU/LLM-eval-survey/issues/3).
 6. Zengzhi Wang for sentiment analysis.
-7. Kenneth Leung ([@kennethleungty](https://github.com/kennethleungty)) for [PR#4](https://github.com/MLGroupJLU/LLM-eval-survey/pull/4) & [PR#5](https://github.com/MLGroupJLU/LLM-eval-survey/pull/5)
+7. Kenneth Leung ([@kennethleungty](https://github.com/kennethleungty)) for [PR#4](https://github.com/MLGroupJLU/LLM-eval-survey/pull/4) to [PR#6](https://github.com/MLGroupJLU/LLM-eval-survey/pull/5)
