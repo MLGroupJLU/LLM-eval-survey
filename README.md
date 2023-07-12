@@ -294,8 +294,12 @@ The paper lists several popular benchmarks. For better summarization, these benc
 | Benchmark   | Focus                              | Domain                   | Evaluation Criteria                           |
 |-------------|------------------------------------|--------------------------|-----------------------------------------------|
 | SOCKET [[paper](https://arxiv.org/abs/2305.14938)]      | Social knowledge                        | Specific downstream task | Social language understanding           |
+| MME [[paper](https://arxiv.org/abs/2306.13394)]      | Multimodal LLM                        | Specific downstream task | Ability of perception and cognition           |
 | Xiezhi [[paper](https://arxiv.org/abs/2306.05783)][[GitHub](https://github.com/MikeGu721/XiezhiBenchmark)]      | Comprehensive domain knowledge   | General language task | Overall performance across multiple benchmarks   |
+| CUAD [[paper](https://arxiv.org/abs/2103.06268)] | Legal contract review | Specific downstream task | Legal contract understanding |
 | MMLU [[paper](https://arxiv.org/abs/2009.03300)]      | Text models                        | General language task | Multitask accuracy           |
+| MATH [[paper](https://arxiv.org/abs/2103.03874)] | Mathematical problem solving  | Specific downstream task | Mathematical ability |
+| APPS [[paper](https://arxiv.org/abs/2105.09938)]|Coding challenge competence | Specific downstream task | Code generation ability|
 | C-Eval [[paper](https://arxiv.org/abs/2305.08322)][[GitHub](https://github.com/SJTU-LIT/ceval)]      | Chinese evaluation                 | General language task | 52 Exams in a Chinese context   |
 | OpenLLM [[Link](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)] | Language model evaluation          | General language task | Task-specific metrics, Leaderboard rankings   |
 | DynaBench [[paper](https://arxiv.org/abs/2104.14337)]   | Dynamic evaluation                 | General language task    | NLI, QA, Sentiment, Hate speech               |
