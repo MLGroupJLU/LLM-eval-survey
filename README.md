@@ -294,7 +294,7 @@ The paper lists several popular benchmarks. For better summarization, these benc
 | Benchmark   | Focus                              | Domain                   | Evaluation Criteria                           |
 |-------------|------------------------------------|--------------------------|-----------------------------------------------|
 | SOCKET [[paper](https://arxiv.org/abs/2305.14938)]      | Social knowledge                        | Specific downstream task | Social language understanding           |
-| MME [[paper](https://arxiv.org/abs/2306.13394)]      | Multimodal LLM                        | Specific downstream task | Ability of perception and cognition           |
+| MME [[paper](https://arxiv.org/abs/2306.13394)]      | Multimodal LLMs                        | General language task | Ability of perception and cognition           |
 | Xiezhi [[paper](https://arxiv.org/abs/2306.05783)][[GitHub](https://github.com/MikeGu721/XiezhiBenchmark)]      | Comprehensive domain knowledge   | General language task | Overall performance across multiple benchmarks   |
 | CUAD [[paper](https://arxiv.org/abs/2103.06268)] | Legal contract review | Specific downstream task | Legal contract understanding |
 | MMLU [[paper](https://arxiv.org/abs/2009.03300)]      | Text models                        | General language task | Multitask accuracy           |
