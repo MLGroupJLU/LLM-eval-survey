@@ -71,7 +71,8 @@ For the **latest version** of the paper, keep an eye on the [releases](https://g
 
 ## News and updates
 
-- [07/07/2023] The first version of the paper is released on arXiv: [A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109). We are planning to release the next version on next Monday.
+- [12/07/2023] The second version of the paper is released on arXiv, along with [Chinese blog](https://zhuanlan.zhihu.com/p/642689101).
+- [07/07/2023] The first version of the paper is released on arXiv: [A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109).
 
 ## What to evaluate
 
