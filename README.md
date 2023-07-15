@@ -137,6 +137,7 @@ For the **latest version** of the paper, keep an eye on the [releases](https://g
 3. Translating Radiology Reports into Plain Language using ChatGPT and GPT-4 with Prompt Learning: Promising Results, Limitations, and Potential. _Qing Lyu et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2303.09038)]
 4. Document-Level Machine Translation with Large Language Models. _Longyue Wang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2304.02210)]
 5.  Case Study of Improving English-Arabic Translation Using the Transformer Model. _Donia Gamal et al._ ijicis 2023. [[paper](https://ijicis.journals.ekb.eg/article_305271.html)]
+6. Taqyim: Evaluating Arabic NLP Tasks Using ChatGPT Models. _Zaid Alyafeai et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.16322)]
    
 ##### Question answering
 1. Benchmarking Foundation Models with Language-Model-as-an-Examiner. _Yushi Bai et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.04181)]
