@@ -42,8 +42,6 @@ The papers are organized according to our survey: [A Survey on Evaluation of Lar
 
 **NOTE:** As we cannot update the arXiv paper in real time, please refer to this repo for the latest updates and the paper may be updated later. We also welcome any pull request or issues to help us make this survey perfect. Your contributions will be acknowledged in <a href="#acknowledgements">acknowledgements</a>.
 
-For the **latest version** of the paper, keep an eye on the [releases](https://github.com/MLGroupJLU/LLM-eval-survey/releases) section.
-
 ![](imgs/framework.png)
 
 <details>
@@ -354,4 +352,5 @@ If you find this project useful in your research or work, please consider citing
 4. Damien Sileo ([@sileod](https://github.com/sileod)) for [PR#2](https://github.com/MLGroupJLU/LLM-eval-survey/pull/2).
 5. Peiyi Wang ([@Wangpeiyi9979](https://github.com/Wangpeiyi9979)) for [issue#3](https://github.com/MLGroupJLU/LLM-eval-survey/issues/3).
 6. Zengzhi Wang for sentiment analysis.
-7. Kenneth Leung ([@kennethleungty](https://github.com/kennethleungty)) for [PR#4](https://github.com/MLGroupJLU/LLM-eval-survey/pull/4) to [PR#6](https://github.com/MLGroupJLU/LLM-eval-survey/pull/6)
+7. Kenneth Leung ([@kennethleungty](https://github.com/kennethleungty)) for [PR#4](https://github.com/MLGroupJLU/LLM-eval-survey/pull/4) to [PR#6](https://github.com/MLGroupJLU/LLM-eval-survey/pull/6).
+8. [@Aml-Hassan-Abd-El-hamid](https://github.com/Aml-Hassan-Abd-El-hamid) for [PR#7](https://github.com/MLGroupJLU/LLM-eval-survey/pull/7).
