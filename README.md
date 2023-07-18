@@ -310,8 +310,7 @@ The paper lists several popular benchmarks. For better summarization, these benc
 | API-Bank [[paper](https://arxiv.org/abs/2304.08244)]    | Tool-augmented                     | Specific downstream task | API call, Response, Planning                                       |
 | Big-Bench [[paper](https://arxiv.org/abs/2206.04615)][[GitHub](https://github.com/google/BIG-bench)]    | Language model evaluation          | General language task | Various Metrics, Model Comparisons            |
 | MultiMedQA [[paper](https://arxiv.org/abs/2212.13138)]  | Medical QA       | Specific downstream task | Accuracy, Medical knowledge, Reasoning ability|
-| CVALUES [[paper](https://arxiv.org/abs/2304.07849)] [[GitHub](https://github.com/X-PLUG/CValues)]     | Safety and responsibility | Specific downstream task | Alignment ability
-of LLMs                         |
+| CVALUES [[paper](https://arxiv.org/abs/2304.07849)] [[GitHub](https://github.com/X-PLUG/CValues)]     | Safety and responsibility | Specific downstream task | Alignment ability of LLMs                         |
 | ToolBench [[GitHub](https://github.com/sambanova/toolbench)]  | Software tools                     | Specific downstream task | Execution success rate                  |
 | PandaLM [[paper](https://arxiv.org/abs/2306.05087)] [[GitHub](https://github.com/WeOpenML/PandaLM)]     | Instruction tuning               | General language task    | Winrate Judged by PandaLM             |
 | GLUE-X [[paper](https://arxiv.org/abs/2211.08073)] [[GitHub](https://github.com/YangLinyi/GLUE-X)]     | Natural language understanding     | General language task    | OOD Robustness                       |
