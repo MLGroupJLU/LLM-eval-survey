@@ -318,7 +318,7 @@ The paper lists several popular benchmarks. For better summarization, these benc
 | PromptBench [[paper](https://arxiv.org/abs/2306.04528)] [[GitHub](https://github.com/microsoft/promptbench)] | Adversarial prompt resilience      | General language task    | Adversarial Robustness                    |
 | MT-Bench [[paper](https://arxiv.org/abs/2306.05685)]  | Multi-turn Conversation      | General language task    | Winrate judged by GPT-4                |
 | M3Exam [[paper](https://arxiv.org/abs/2306.05179)] [[GitHub](https://github.com/DAMO-NLP-SG/M3Exam)]     | Human exams | Specific downstream task | Task-Specific Metrics                         |
-| CARE-MI [[paper](https://arxiv.org/abs/2307.01458)] [[GitHub](https://github.com/Meetyou-AI-Lab/CARE-MI)]     | Medical QA | Specific downstream task | Correctness, Interpretability                         |
+| GAOKAO-Bench [[paper](https://arxiv.org/abs/2305.12474)]     | Chinese Gaokao examination | Specific downstream task | Accuracy and scoring rate                         |
 
 ## Contributing
 
