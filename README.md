@@ -42,6 +42,10 @@ The papers are organized according to our survey: [A Survey on Evaluation of Lar
 
 **NOTE:** As we cannot update the arXiv paper in real time, please refer to this repo for the latest updates and the paper may be updated later. We also welcome any pull request or issues to help us make this survey perfect. Your contributions will be acknowledged in <a href="#acknowledgements">acknowledgements</a>.
 
+Related projects:
+- Prompt benchmark for large language models: [[PromptBench: robustness evaluation of LLMs](https://github.com/microsoft/promptbench)]
+- Evlauation of large language models: [[LLM-eval](https://llm-eval.github.io/)]
+
 ![](imgs/framework.png)
 
 <details>
