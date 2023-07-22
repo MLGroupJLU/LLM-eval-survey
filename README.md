@@ -46,7 +46,7 @@ Related projects:
 - Prompt benchmark for large language models: [[PromptBench: robustness evaluation of LLMs](https://github.com/microsoft/promptbench)]
 - Evlauation of large language models: [[LLM-eval](https://llm-eval.github.io/)]
 
-![](imgs/framework.png)
+![](imgs/framework_new.png)
 
 <details>
   <summary>Table of Contents</summary>
@@ -222,7 +222,7 @@ Related projects:
 7. An empirical study on challenging math problem solving with GPT-4. _Yiran Wu et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.01337)]
 8. How well do Large Language Models perform in Arithmetic Tasks? _Zheng Yuan et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2304.02015)]
    
-#### Science
+#### General science
 1. Have LLMs Advanced Enough? A Challenging Problem Solving Benchmark for Large Language Models. _Daman Arora et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.15074)]
 2. Do Large Language Models Understand Chemistry? A Conversation with ChatGPT. _Castro Nascimento CM et al._ JCIM 2023. [[paper](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00285)]
 3. What indeed can GPT models do in chemistry? A comprehensive benchmark on eight tasks. _Taicheng Guo et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.18365)][[GitHub](https://github.com/ChemFoundationModels/ChemLLMBench)]
