@@ -324,7 +324,7 @@ The paper lists several popular benchmarks. For better summarization, these benc
 | API-Bank [[paper](https://arxiv.org/abs/2304.08244)]    | Tool-augmented                     | Specific downstream task | API call, response, and planning                                       |
 | M3KE [[paper](https://arxiv.org/abs/2305.10263)]    | Multi-task  | General language task | Multi-task accuracy                                       |
 | ARB [[paper](https://arxiv.org/abs/2307.13692)]  | Advanced reasoning ability       | Specific downstream task | Multidomain advanced reasoning ability|
-| Big-Bench [[paper](https://arxiv.org/abs/2206.04615)][[GitHub](https://github.com/google/BIG-bench)]    | Capabilities and limitations of LMs | General language task | Model performance and calibration         |
+| BIG-bench [[paper](https://arxiv.org/abs/2206.04615)][[GitHub](https://github.com/google/BIG-bench)]    | Capabilities and limitations of LMs | General language task | Model performance and calibration         |
 | MultiMedQA [[paper](https://arxiv.org/abs/2212.13138)]  | Medical QA       | Specific downstream task | Model performance, medical knowledge, and reasoning ability|
 | CVALUES [[paper](https://arxiv.org/abs/2307.09705)] [[GitHub](https://github.com/X-PLUG/CValues)]     | Safety and responsibility | Specific downstream task | Alignment ability of LLMs                         |
 | ToolBench [[GitHub](https://github.com/sambanova/toolbench)]  | Software tools               | Specific downstream task | Execution success rate                  |
