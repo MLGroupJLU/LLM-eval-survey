@@ -198,6 +198,7 @@ Related projects:
 11. Moral Mimicry: Large Language Models Produce Moral Rationalizations Tailored to Political Identity. _Gabriel Simmons et al._ arXiv 2022. [[paper](https://arxiv.org/abs/2209.12106)]
 12. Large Language Models are not Fair Evaluators. _Peiyi Wang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.17926)]
 13. Exploring AI Ethics of ChatGPT: A Diagnostic Analysis. _Terry Yue Zhuo et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2301.12867)]
+14. CHBias: Bias Evaluation and Mitigation of Chinese Conversational Language Models. _Jiaxu Zhao et al._ ACL 2023. [[paper](https://aclanthology.org/2023.acl-long.757.pdf)]
 
 #### Trustworthiness
 1. Human-Like Intuitive Behavior and Reasoning Biases Emerged in Language Models -- and Disappeared in GPT-4. _Thilo Hagendorff et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.07622)]
