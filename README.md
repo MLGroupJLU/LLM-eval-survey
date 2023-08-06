@@ -288,6 +288,7 @@ Related projects:
 5. ChatGPT vs. Google: A Comparative Study of Search Performance and User Experience. _Ruiyun Xu et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2307.01135)]
 6. Where to Go Next for Recommender Systems? ID- vs. Modality-based Recommender Models Revisited. _Zheng Yuan et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2303.13835)]
 7. Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation. _Jizhi Zhang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.07609)]
+7. Zero-shot recommendation as language modeling. _Damien Sileo et al._ ECIR 2022. [[paper](https://arxiv.org/abs/2112.04184)]
 
 #### Personality testing
 1. ChatGPT is fun, but it is not funny! Humor is still challenging Large Language Models. _Sophie Jentzsch et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.04563)]
