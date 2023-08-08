@@ -340,7 +340,7 @@ The paper lists several popular benchmarks. For better summarization, these benc
 | MT-Bench [[paper](https://arxiv.org/abs/2306.05685)]  | Multi-turn conversation      | General language task    | Winrate judged by GPT-4                |
 | M3Exam [[paper](https://arxiv.org/abs/2306.05179)] [[GitHub](https://github.com/DAMO-NLP-SG/M3Exam)]     | Human exams | Specific downstream task | Task-specific metrics                         |
 | GAOKAO-Bench [[paper](https://arxiv.org/abs/2305.12474)]     | Chinese Gaokao examination | Specific downstream task | Accuracy and scoring rate                         |
-| LLMEval² [[paper](https://arxiv.org/abs/2308.01862)] [[Link](https://drive.google.com/file/d/1sRbYZ0SWqmbIlzC_eB2zjyQF5TBynSXo/view] | LLM Evaluator | General language task | Accuracy, Macro-F1 and Kappa Correlation Coefficient                        |
+| LLMEval² [[paper](https://arxiv.org/abs/2308.01862)] [[Link](https://drive.google.com/file/d/1sRbYZ0SWqmbIlzC_eB2zjyQF5TBynSXo/view)] | LLM Evaluator | General language task | Accuracy, Macro-F1 and Kappa Correlation Coefficient                        |
 
 ## Contributing
 
