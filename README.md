@@ -173,6 +173,7 @@ Related projects:
 3. SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models. _Potsawee Manakul et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2303.08896)]
 4. FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation. _Sewon Min et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.14251)]
 5. Measuring and Modifying Factual Knowledge in Large Language Models. _Pouya Pezeshkpour_ arXiv 2023. [[paper](https://arxiv.org/abs/2306.06264)]
+6. Evaluating Open-QA Evaluation. _Cunxiang Wang_ arXiv 2023. [[paper](https://arxiv.org/abs/2305.12421)]
 
    
 ### Robustness, ethics, biases, and trustworthiness
