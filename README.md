@@ -165,7 +165,7 @@ Related projects:
 5. A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark Datasets, _Laskar et al._ ACL 2023 (Findings). [[paper](https://arxiv.org/abs/2305.18486)]
 6. M3Exam: A Multilingual, Multimodal, Multilevel Benchmark for Examining Large Language Models. _Wenxuan Zhang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.05179)]
 7. Measuring Massive Multitask Chinese Understanding. _Hui Zeng et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2304.12986)]
-8. Measuring Massive Multitask Chinese Understanding. _Hui Zeng et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2304.12986)]
+6. CMMLU: Measuring massive multitask language understanding in Chinese. _Haonan Li et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.09212)]
   
 #### Factuality
 1. TrueTeacher: Learning Factual Consistency Evaluation with Large Language Models. _Zorik Gekhman et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.11171)]
@@ -173,7 +173,7 @@ Related projects:
 3. SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models. _Potsawee Manakul et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2303.08896)]
 4. FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation. _Sewon Min et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.14251)]
 5. Measuring and Modifying Factual Knowledge in Large Language Models. _Pouya Pezeshkpour_ arXiv 2023. [[paper](https://arxiv.org/abs/2306.06264)]
-6. CMMLU: Measuring massive multitask language understanding in Chinese. _Haonan Li et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.09212)]
+
    
 ### Robustness, ethics, biases, and trustworthiness
 
