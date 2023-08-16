@@ -314,7 +314,7 @@ The paper lists several popular benchmarks. For better summarization, these benc
 
 | Benchmark   | Focus                              | Domain                   | Evaluation Criteria                           |
 |-------------|------------------------------------|--------------------------|-----------------------------------------------|
-| MMBench [[paper](https://arxiv.org/abs/2307.06281)]     | Multimodal LLMs  | General language task | Fine-grained abilities of perception and reasoning       |
+| MMBench [[paper](https://arxiv.org/abs/2307.06281)][[Link](https://opencompass.org.cn/MMBench)]     | Multimodal LLMs  | General language task | Fine-grained abilities of perception and reasoning       |
 | SOCKET [[paper](https://arxiv.org/abs/2305.14938)]      | Social knowledge                        | Specific downstream task | Social language understanding           |
 | MME [[paper](https://arxiv.org/abs/2306.13394)]      | Multimodal LLMs                        | General language task | Ability of perception and cognition           |
 | Xiezhi [[paper](https://arxiv.org/abs/2306.05783)][[GitHub](https://github.com/MikeGu721/XiezhiBenchmark)]      | Comprehensive domain knowledge   | General language task | Overall performance across multiple benchmarks   |
