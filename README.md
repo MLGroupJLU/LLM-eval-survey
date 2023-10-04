@@ -227,6 +227,7 @@ Related projects:
 6. CMATH: Can Your Language Model Pass Chinese Elementary School Math Test? _Tianwen Wei et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.16636)]
 7. An empirical study on challenging math problem solving with GPT-4. _Yiran Wu et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.01337)]
 8. How well do Large Language Models perform in Arithmetic Tasks? _Zheng Yuan et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2304.02015)]
+9. MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models. _Longhui Yu et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2309.12284)]
    
 #### General science
 1. Have LLMs Advanced Enough? A Challenging Problem Solving Benchmark for Large Language Models. _Daman Arora et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.15074)]
