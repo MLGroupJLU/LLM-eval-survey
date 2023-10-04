@@ -325,6 +325,7 @@ The paper lists several popular benchmarks. For better summarization, these benc
 | MMLU [[paper](https://arxiv.org/abs/2009.03300)]      | Text models                        | General language task | Multitask accuracy           |
 | MATH [[paper](https://arxiv.org/abs/2103.03874)] | Mathematical problem  | Specific downstream task | Mathematical ability |
 | APPS [[paper](https://arxiv.org/abs/2105.09938)]|Coding challenge competence | Specific downstream task | Code generation ability|
+| CELLO[[paper](https://arxiv.org/abs/2309.09150)][[GitHub](https://github.com/Abbey4799/CELLO)] |Complex instructions | Specific downstream task | Count limit, answer format, task-prescribed phrases and input-dependent query|
 | C-Eval [[paper](https://arxiv.org/abs/2305.08322)][[GitHub](https://github.com/SJTU-LIT/ceval)]      | Chinese evaluation                 | General language task | 52 Exams in a Chinese context   |
 | EmotionBench [[paper](https://arxiv.org/abs/2308.03656)]      | Empathy ability                 | Specific downstream task | Emotional changes   |
 | OpenLLM [[Link](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)] | Chatbots          | General language task | Leaderboard rankings   |
