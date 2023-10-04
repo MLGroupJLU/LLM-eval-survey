@@ -341,8 +341,8 @@ The paper lists several popular benchmarks. For better summarization, these benc
 | MultiMedQA [[paper](https://arxiv.org/abs/2212.13138)]  | Medical QA       | Specific downstream task | Model performance, medical knowledge, and reasoning ability|
 | CVALUES [[paper](https://arxiv.org/abs/2307.09705)] [[GitHub](https://github.com/X-PLUG/CValues)]     | Safety and responsibility | Specific downstream task | Alignment ability of LLMs|
 | ToolBench [[GitHub](https://github.com/sambanova/toolbench)]  | Software tools               | Specific downstream task | Execution success rate                  |
-| CMB [[paper](https://arxiv.org/abs/2308.08833)] [[GitHub](https://cmedbenchmark.llmzoo.com/)]     | Chinese comprehensive medicine| Specific downstream task |Expert evaluation and automatic evaluation|
-| PandaLM [[paper](https://arxiv.org/abs/2306.05087)] [[Link](https://github.com/WeOpenML/PandaLM)] | Instruction tuning               | General language task    | Winrate judged by PandaLM             |
+| CMB [[paper](https://arxiv.org/abs/2308.08833)] [[Link](https://cmedbenchmark.llmzoo.com/)]     | Chinese comprehensive medicine| Specific downstream task |Expert evaluation and automatic evaluation|
+| PandaLM [[paper](https://arxiv.org/abs/2306.05087)] [[GitHub](https://github.com/WeOpenML/PandaLM)] | Instruction tuning               | General language task    | Winrate judged by PandaLM             |
 | MINT [[paper](https://arxiv.org/abs/2309.10691)] [[GitHub](https://xingyaoww.github.io/mint-bench/)]  | Multi-turn interaction, tools and language feedback   | Specific downstream task | Success rate with _k_-turn budget _SR<sub>k</sub>_|
 | GLUE-X [[paper](https://arxiv.org/abs/2211.08073)] [[GitHub](https://github.com/YangLinyi/GLUE-X)]     | OOD robustness for NLU tasks     | General language task    | OOD robustness                       |
 | KoLA [[paper](https://arxiv.org/abs/2306.09296)]       | Knowledge-oriented evaluation      | General language task    | Self-contrast metrics |
