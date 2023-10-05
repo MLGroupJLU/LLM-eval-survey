@@ -123,7 +123,7 @@ Related projects:
 14. Are large language models really good logical reasoners? a comprehensive evaluation from deductive, inductive and abductive views. _Fangzhi Xu et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.09841)]
 15. Efficiently Measuring the Cognitive Ability of LLMs: An Adaptive Testing Perspective. _Yan Zhuang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.10512)]
 16. Autoformalization with Large Language Models. _Yuhuai Wu et al._ NeurIPS 2022. [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/d0c6bc641a56bebee9d985b937307367-Abstract-Conference.html)]
-17. Efficiently Measuring the Cognitive Ability of LLMs: An Adaptive Testing Perspective. _Yan Zhuang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.10512)]
+17. Evaluating and Improving Tool-Augmented Computation-Intensive Math Reasoning. _Beichen Zhang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.02408)]
    
 #### Natural language generation
 
