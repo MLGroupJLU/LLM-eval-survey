@@ -122,6 +122,8 @@ Related projects:
 13. Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks. _Zhaofeng Wu_ arXiv 2023. [[paper](https://arxiv.org/abs/2307.02477?utm_source=tldrai)]
 14. Are large language models really good logical reasoners? a comprehensive evaluation from deductive, inductive and abductive views. _Fangzhi Xu et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.09841)]
 15. Efficiently Measuring the Cognitive Ability of LLMs: An Adaptive Testing Perspective. _Yan Zhuang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.10512)]
+16. Autoformalization with Large Language Models. _Yuhuai Wu et al._ NeurIPS 2022. [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/d0c6bc641a56bebee9d985b937307367-Abstract-Conference.html)]
+17. Efficiently Measuring the Cognitive Ability of LLMs: An Adaptive Testing Perspective. _Yan Zhuang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.10512)]
    
 #### Natural language generation
 
