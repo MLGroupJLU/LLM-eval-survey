@@ -124,6 +124,8 @@ Related projects:
 15. Efficiently Measuring the Cognitive Ability of LLMs: An Adaptive Testing Perspective. _Yan Zhuang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.10512)]
 16. Autoformalization with Large Language Models. _Yuhuai Wu et al._ NeurIPS 2022. [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/d0c6bc641a56bebee9d985b937307367-Abstract-Conference.html)]
 17. Evaluating and Improving Tool-Augmented Computation-Intensive Math Reasoning. _Beichen Zhang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.02408)]
+18. StructGPT: A General Framework for Large Language Model to Reason over Structured Data. _Jinhao Jiang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.09645)]
+19. Unifying Large Language Models and Knowledge Graphs: A Roadmap. _Shirui Pan et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.08302)]
    
 #### Natural language generation
 
