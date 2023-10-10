@@ -327,7 +327,7 @@ The paper lists several popular benchmarks. For better summarization, these benc
 |-------------|------------------------------------|--------------------------|-----------------------------------------------|
 | MMBench [[paper](https://arxiv.org/abs/2307.06281)][[Link](https://opencompass.org.cn/MMBench)]     | Multimodal LLMs  | General language task | Fine-grained abilities of perception and reasoning       |
 | SOCKET [[paper](https://arxiv.org/abs/2305.14938)]      | Social knowledge                        | Specific downstream task | Social language understanding           |
-| MME [[paper](https://arxiv.org/abs/2306.13394)]      | Multimodal LLMs                        | General language task | Ability of perception and cognition           |
+| MME [[paper](https://arxiv.org/abs/2306.13394)]      | Multimodal LLMs                        | Specific downstream task | Ability of perception and cognition           |
 | Xiezhi [[paper](https://arxiv.org/abs/2306.05783)][[GitHub](https://github.com/MikeGu721/XiezhiBenchmark)]      | Comprehensive domain knowledge   | General language task | Overall performance across multiple benchmarks   |
 | CUAD [[paper](https://arxiv.org/abs/2103.06268)] | Legal contract review | Specific downstream task | Legal contract understanding |
 | TRUSTGPT [[paper](https://arxiv.org/abs/2306.11507)] | Ethic | Specific downstream task | Toxicity, bias, and value-alignment |
