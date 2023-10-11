@@ -345,6 +345,8 @@ The paper lists several popular benchmarks. For better summarization, these benc
 | HELM [[paper](https://arxiv.org/abs/2211.09110)][[Link](https://crfm.stanford.edu/helm/latest/)]        | Holistic evaluation           | General language task    | Multi-metric                         |
 | API-Bank [[paper](https://arxiv.org/abs/2304.08244)]    | Tool-augmented                     | Specific downstream task | API call, response, and planning                                       |
 | M3KE [[paper](https://arxiv.org/abs/2305.10263)]    | Multi-task  | Specific downstream task | Multi-task accuracy                                       |
+| MMBench [[paper](https://arxiv.org/abs/2307.06281)][[GitHub](https://github.com/open-compass/MMBench)]    | Large vision-language models(LVLMs) | General language task | Multifaceted capabilities
+of VLMs        |
 | ARB [[paper](https://arxiv.org/abs/2307.13692)]  | Advanced reasoning ability       | Specific downstream task | Multidomain advanced reasoning ability|
 | BIG-bench [[paper](https://arxiv.org/abs/2206.04615)][[GitHub](https://github.com/google/BIG-bench)]    | Capabilities and limitations of LMs | General language task | Model performance and calibration         |
 | MultiMedQA [[paper](https://arxiv.org/abs/2212.13138)]  | Medical QA       | Specific downstream task | Accuracy and human evaluation|
