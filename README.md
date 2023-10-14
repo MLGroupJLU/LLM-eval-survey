@@ -359,7 +359,7 @@ of VLMs        |
 | Dialogue CoT [[paper](https://arxiv.org/abs/2305.11792)] [[GitHub](https://github.com/ruleGreen/Cue-CoT)]  | In-depth dialogue  | Specific downstream task | Helpfulness and acceptness of LLMs|
 | LAMM [[paper](https://arxiv.org/abs/2306.06687)] [[GitHub](https://github.com/OpenLAMM/LAMM)]  | Multi-modal point clouds  | Specific downstream task | Task-specific metrics|
 | GLUE-X [[paper](https://arxiv.org/abs/2211.08073)] [[GitHub](https://github.com/YangLinyi/GLUE-X)]     | OOD robustness for NLU tasks     | General language task    | OOD robustness                       |
-| CONNER [[paper](https://arxiv.org/abs/2310.07289)]       | Knowledge-oriented evaluation      | Knowledge-intensive task    | Intrinsic and extrinsic metrics |
+| CONNER [[paper](https://arxiv.org/abs/2310.07289)][[GitHub](https://github.com/ChanLiang/CONNER)]       | Knowledge-oriented evaluation      | Knowledge-intensive task    | Intrinsic and extrinsic metrics |
 | KoLA [[paper](https://arxiv.org/abs/2306.09296)]       | Knowledge-oriented evaluation      | General language task    | Self-contrast metrics |
 | AGIEval [[paper](https://arxiv.org/abs/2304.06364)]     | Human-centered foundational models | General language task    | General                            |
 | PromptBench [[paper](https://arxiv.org/abs/2306.04528)] [[GitHub](https://github.com/microsoft/promptbench)] | Adversarial prompt resilience      | General language task    | Adversarial robustness           |
