@@ -359,8 +359,7 @@ The paper lists several popular benchmarks. For better summarization, these benc
 | MINT [[paper](https://arxiv.org/abs/2309.10691)] [[GitHub](https://xingyaoww.github.io/mint-bench/)]  | Multi-turn interaction, tools and language feedback   | Specific downstream task | Success rate with _k_-turn budget _SR<sub>k</sub>_|
 | Dialogue CoT [[paper](https://arxiv.org/abs/2305.11792)] [[GitHub](https://github.com/ruleGreen/Cue-CoT)]  | In-depth dialogue  | Specific downstream task | Helpfulness and acceptness of LLMs|
 | BOSS [[paper](https://arxiv.org/abs/2306.04618)] [[GitHub](https://github.com/lifan-yuan/OOD_NLP)] | OOD robustness in NLP               | General language task    | OOD robustness            |
-| MM-Vet [[paper](https://arxiv.org/abs/2308.02490)] [[GitHub](https://github.com/yuweihao/MM-Vet)]  | Complicated multi-modal tasks  |  Multi-modal task | Integrated
-vision-language capabilities|
+| MM-Vet [[paper](https://arxiv.org/abs/2308.02490)] [[GitHub](https://github.com/yuweihao/MM-Vet)]  | Complicated multi-modal tasks  |  Multi-modal task | Integrated vision-language capabilities|
 | LAMM [[paper](https://arxiv.org/abs/2306.06687)] [[GitHub](https://github.com/OpenLAMM/LAMM)]  | Multi-modal point clouds  |  Multi-modal task | Task-specific metrics|
 | GLUE-X [[paper](https://arxiv.org/abs/2211.08073)] [[GitHub](https://github.com/YangLinyi/GLUE-X)]     | OOD robustness for NLU tasks     | General language task    | OOD robustness                       |
 | KoLA [[paper](https://arxiv.org/abs/2306.09296)]       | Knowledge-oriented evaluation      | General language task    | Self-contrast metrics |
