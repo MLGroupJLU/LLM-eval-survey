@@ -345,19 +345,24 @@ The paper lists several popular benchmarks. For better summarization, these benc
 | HELM [[paper](https://arxiv.org/abs/2211.09110)][[Link](https://crfm.stanford.edu/helm/latest/)]        | Holistic evaluation           | General language task    | Multi-metric                         |
 | API-Bank [[paper](https://arxiv.org/abs/2304.08244)]    | Tool-augmented                     | Specific downstream task | API call, response, and planning                                       |
 | M3KE [[paper](https://arxiv.org/abs/2305.10263)]    | Multi-task  | Specific downstream task | Multi-task accuracy                                       |
-| MMBench [[paper](https://arxiv.org/abs/2307.06281)][[GitHub](https://github.com/open-compass/MMBench)]    | Large vision-language models(LVLMs) | General language task | Multifaceted capabilities
+| MMBench [[paper](https://arxiv.org/abs/2307.06281)][[GitHub](https://github.com/open-compass/MMBench)]    | Large vision-language models(LVLMs) |  Multi-modal task | Multifaceted capabilities
 of VLMs        |
+| SEED-Bench [[paper](https://arxiv.org/abs/2307.16125)][[GitHub](https://github.com/AILab-CVC/SEED-Bench)]    | Multi-modal Large Language Models |  Multi-modal task | Generative understanding of MLLMs |
 | ARB [[paper](https://arxiv.org/abs/2307.13692)]  | Advanced reasoning ability       | Specific downstream task | Multidomain advanced reasoning ability|
 | BIG-bench [[paper](https://arxiv.org/abs/2206.04615)][[GitHub](https://github.com/google/BIG-bench)]    | Capabilities and limitations of LMs | General language task | Model performance and calibration         |
 | MultiMedQA [[paper](https://arxiv.org/abs/2212.13138)]  | Medical QA       | Specific downstream task | Accuracy and human evaluation|
 | CVALUES [[paper](https://arxiv.org/abs/2307.09705)] [[GitHub](https://github.com/X-PLUG/CValues)]     | Safety and responsibility | Specific downstream task | Alignment ability of LLMs|
+| LVLM-eHub [[paper](https://arxiv.org/abs/2306.09265)]   |  LVLMs |  Multi-modal task |  Multimodal capabilities of LVLMs |
 | ToolBench [[GitHub](https://github.com/sambanova/toolbench)]  | Software tools               | Specific downstream task | Execution success rate                  |
 | FRESHQA [[paper](https://arxiv.org/abs/2310.03214)] [[GitHub](https://github.com/freshllms/freshqa)]     | Dynamic QA| Specific downstream task |Correctness and hallucination|
 | CMB [[paper](https://arxiv.org/abs/2308.08833)] [[Link](https://cmedbenchmark.llmzoo.com/)]     | Chinese comprehensive medicine| Specific downstream task |Expert evaluation and automatic evaluation|
 | PandaLM [[paper](https://arxiv.org/abs/2306.05087)] [[GitHub](https://github.com/WeOpenML/PandaLM)] | Instruction tuning               | General language task    | Winrate judged by PandaLM             |
 | MINT [[paper](https://arxiv.org/abs/2309.10691)] [[GitHub](https://xingyaoww.github.io/mint-bench/)]  | Multi-turn interaction, tools and language feedback   | Specific downstream task | Success rate with _k_-turn budget _SR<sub>k</sub>_|
 | Dialogue CoT [[paper](https://arxiv.org/abs/2305.11792)] [[GitHub](https://github.com/ruleGreen/Cue-CoT)]  | In-depth dialogue  | Specific downstream task | Helpfulness and acceptness of LLMs|
-| LAMM [[paper](https://arxiv.org/abs/2306.06687)] [[GitHub](https://github.com/OpenLAMM/LAMM)]  | Multi-modal point clouds  | Specific downstream task | Task-specific metrics|
+| BOSS [[paper](https://arxiv.org/abs/2306.04618)] [[GitHub](https://github.com/lifan-yuan/OOD_NLP)] | OOD robustness in NLP               | General language task    | OOD robustness            |
+| MM-Vet [[paper](https://arxiv.org/abs/2308.02490)] [[GitHub](https://github.com/yuweihao/MM-Vet)]  | Complicated multi-modal tasks  |  Multi-modal task | Integrated
+vision-language capabilities|
+| LAMM [[paper](https://arxiv.org/abs/2306.06687)] [[GitHub](https://github.com/OpenLAMM/LAMM)]  | Multi-modal point clouds  |  Multi-modal task | Task-specific metrics|
 | GLUE-X [[paper](https://arxiv.org/abs/2211.08073)] [[GitHub](https://github.com/YangLinyi/GLUE-X)]     | OOD robustness for NLU tasks     | General language task    | OOD robustness                       |
 | KoLA [[paper](https://arxiv.org/abs/2306.09296)]       | Knowledge-oriented evaluation      | General language task    | Self-contrast metrics |
 | AGIEval [[paper](https://arxiv.org/abs/2304.06364)]     | Human-centered foundational models | General language task    | General                            |
