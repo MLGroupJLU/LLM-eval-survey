@@ -328,7 +328,7 @@ The paper lists several popular benchmarks. For better summarization, these benc
 | SOCKET [[paper](https://arxiv.org/abs/2305.14938)]      | Social knowledge                        | Specific downstream task | Social language understanding           |
 | MME [[paper](https://arxiv.org/abs/2306.13394)]      | Multimodal LLMs                        | Multi-modal task | Ability of perception and cognition           |
 | Xiezhi [[paper](https://arxiv.org/abs/2306.05783)][[GitHub](https://github.com/MikeGu721/XiezhiBenchmark)]      | Comprehensive domain knowledge   | General language task | Overall performance across multiple benchmarks   |
-| Choice-75 [[paper](https://arxiv.org/abs/2309.11737)][[GitHub](https://github.com/JoeyHou/branching)]  | Legal contract review | Specific downstream task | Legal contract understanding |
+| Choice-75 [[paper](https://arxiv.org/abs/2309.11737)][[GitHub](https://github.com/JoeyHou/branching)]  | Script learning | Specific downstream task | Overall performance of LLMs |
 | CUAD [[paper](https://arxiv.org/abs/2103.06268)] | Legal contract review | Specific downstream task | Legal contract understanding |
 | TRUSTGPT [[paper](https://arxiv.org/abs/2306.11507)] | Ethic | Specific downstream task | Toxicity, bias, and value-alignment |
 | MMLU [[paper](https://arxiv.org/abs/2009.03300)]      | Text models                        | General language task | Multitask accuracy           |
