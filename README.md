@@ -371,6 +371,7 @@ The paper lists several popular benchmarks. For better summarization, these benc
 | GAOKAO-Bench [[paper](https://arxiv.org/abs/2305.12474)]     | Chinese Gaokao examination | Specific downstream task | Accuracy and scoring rate                         |
 | SafetyBench [[paper](https://arxiv.org/abs/2309.07045)] [[GitHub](https://github.com/thu-coai/SafetyBench)]      | Safety | Specific downstream task | Safety abilities of LLMs                        |
 | LLMEval² [[paper](https://arxiv.org/abs/2308.01862)] [[Link](https://drive.google.com/file/d/1sRbYZ0SWqmbIlzC_eB2zjyQF5TBynSXo/view)] | LLM Evaluator | General language task | Accuracy, Macro-F1 and Kappa Correlation Coefficient                        |
+| FinanceBench [[paper](https://uploads-ssl.webflow.com/64e655d42d3be60f582d0472/65558c28757acd0fa312c5ec_FinanceBench__ACL_%20(3).pdf)] [[GitHub](https://github.com/patronus-ai/financebench)]      | Finance Question and Answering | Specific downstream task | Accuracy compared with human annotated labels
 
 ## Contributing
 
@@ -404,6 +405,6 @@ If you find this project useful in your research or work, please consider citing
 4. Damien Sileo ([@sileod](https://github.com/sileod)) for [PR#2](https://github.com/MLGroupJLU/LLM-eval-survey/pull/2).
 5. Peiyi Wang ([@Wangpeiyi9979](https://github.com/Wangpeiyi9979)) for [issue#3](https://github.com/MLGroupJLU/LLM-eval-survey/issues/3).
 6. Zengzhi Wang for sentiment analysis.
-7. Kenneth Leung ([@kennethleungty](https://github.com/kennethleungty)) for [PR#4](https://github.com/MLGroupJLU/LLM-eval-survey/pull/4) to [PR#6](https://github.com/MLGroupJLU/LLM-eval-survey/pull/6).
+7. Kenneth Leung ([@kennethleungty](https://github.com/kennethleungty)) for multiple PRs (#4, #5, #6)
 8. [@Aml-Hassan-Abd-El-hamid](https://github.com/Aml-Hassan-Abd-El-hamid) for [PR#7](https://github.com/MLGroupJLU/LLM-eval-survey/pull/7).
 9. [@taichengguo](https://github.com/taichengguo) for [issue#9](https://github.com/MLGroupJLU/LLM-eval-survey/issues/9)
