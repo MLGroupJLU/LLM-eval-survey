@@ -309,9 +309,10 @@ Related projects:
 
 #### Personality testing
 1. ChatGPT is fun, but it is not funny! Humor is still challenging Large Language Models. _Sophie Jentzsch et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.04563)]
-2. Personality Traits in Large Language Models. _Mustafa Safdari et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2307.00184)]
-3. Have Large Language Models Developed a Personality?: Applicability of Self-Assessment Tests in Measuring Personality in LLMs. _Xiaoyang Song et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.14693)]
-4. Emotional Intelligence of Large Language Models. _Xuena Wang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2307.09042)]
+2. Leveraging Word Guessing Games to Assess the Intelligence of Large Language Models. _Tian Liang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2310.20499)]
+3. Personality Traits in Large Language Models. _Mustafa Safdari et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2307.00184)]
+4. Have Large Language Models Developed a Personality?: Applicability of Self-Assessment Tests in Measuring Personality in LLMs. _Xiaoyang Song et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.14693)]
+5. Emotional Intelligence of Large Language Models. _Xuena Wang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2307.09042)]
 
 #### Specific tasks
 1. ChatGPT and Other Large Language Models as Evolutionary Engines for Online Interactive Collaborative Game Design. _Pier Luca Lanzi et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2303.02155)]
