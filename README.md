@@ -374,6 +374,7 @@ The paper lists several popular benchmarks. For better summarization, these benc
 | SafetyBench [[paper](https://arxiv.org/abs/2309.07045)] [[GitHub](https://github.com/thu-coai/SafetyBench)]      | Safety | Specific downstream task | Safety abilities of LLMs                        |
 | LLMEval² [[paper](https://arxiv.org/abs/2308.01862)] [[Link](https://drive.google.com/file/d/1sRbYZ0SWqmbIlzC_eB2zjyQF5TBynSXo/view)] | LLM Evaluator | General language task | Accuracy, Macro-F1 and Kappa Correlation Coefficient                        |
 | FinanceBench [[paper](https://uploads-ssl.webflow.com/64e655d42d3be60f582d0472/65558c28757acd0fa312c5ec_FinanceBench__ACL_%20(3).pdf)] [[GitHub](https://github.com/patronus-ai/financebench)]      | Finance Question and Answering | Specific downstream task | Accuracy compared with human annotated labels
+| LLMBox [[paper](https://aclanthology.org/2024.acl-demos.37.pdf)] [[GitHub](https://github.com/RUCAIBox/LLMBox)]      | Comprehensive model evaluation | General language task | Flexible and efficent evaluation on 59+ tasks |
 
 ## Contributing
 
