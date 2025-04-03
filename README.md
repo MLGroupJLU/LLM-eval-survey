@@ -140,6 +140,7 @@ Related projects:
 1. A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity. _Yejin Bang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2302.04023)]
 2. LLM-Eval: Unified Multi-Dimensional Automatic Evaluation for Open-Domain Conversations with Large Language Models. _Yen-Ting Lin et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.13711)]
 3. Is ChatGPT a general-purpose natural language processing task solver? _Chengwei Qin et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2302.06476)]
+4. LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset. _Lianmin Zheng et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2309.11998)]
    
 ##### Translation
 1. A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity. _Yejin Bang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2302.04023)]
@@ -218,6 +219,7 @@ Related projects:
 5. A Survey of Hallucination in Large Foundation Models. _Vipula Rawte et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2309.05922)]
 6. Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models. _Yue Zhang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2309.01219)]
 7. Beyond Factuality: A Comprehensive Evaluation of Large Language Models as Knowledge Generators. _Liang Chen et al._ EMNLP 2023. [[paper](https://arxiv.org/abs/2310.07289)]
+8. Ask Again, Then Fail: Large Language Models' Vacillations in Judgement. _Qiming Xie et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2310.02174)]
    
 ### Social science
 1. How ready are pre-trained abstractive models and LLMs for legal case judgement summarization. _Aniket Deroy et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.01248)]
@@ -308,9 +310,10 @@ Related projects:
 
 #### Personality testing
 1. ChatGPT is fun, but it is not funny! Humor is still challenging Large Language Models. _Sophie Jentzsch et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.04563)]
-2. Personality Traits in Large Language Models. _Mustafa Safdari et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2307.00184)]
-3. Have Large Language Models Developed a Personality?: Applicability of Self-Assessment Tests in Measuring Personality in LLMs. _Xiaoyang Song et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.14693)]
-4. Emotional Intelligence of Large Language Models. _Xuena Wang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2307.09042)]
+2. Leveraging Word Guessing Games to Assess the Intelligence of Large Language Models. _Tian Liang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2310.20499)]
+3. Personality Traits in Large Language Models. _Mustafa Safdari et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2307.00184)]
+4. Have Large Language Models Developed a Personality?: Applicability of Self-Assessment Tests in Measuring Personality in LLMs. _Xiaoyang Song et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.14693)]
+5. Emotional Intelligence of Large Language Models. _Xuena Wang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2307.09042)]
 
 #### Specific tasks
 1. ChatGPT and Other Large Language Models as Evolutionary Engines for Online Interactive Collaborative Game Design. _Pier Luca Lanzi et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2303.02155)]
@@ -327,8 +330,9 @@ The paper lists several popular benchmarks. For better summarization, these benc
 | Benchmark   | Focus                              | Domain                   | Evaluation Criteria                           |
 |-------------|------------------------------------|--------------------------|-----------------------------------------------|
 | SOCKET [[paper](https://arxiv.org/abs/2305.14938)]      | Social knowledge                        | Specific downstream task | Social language understanding           |
-| MME [[paper](https://arxiv.org/abs/2306.13394)]      | Multimodal LLMs                        | General language task | Ability of perception and cognition           |
+| MME [[paper](https://arxiv.org/abs/2306.13394)]      | Multimodal LLMs                        | Multi-modal task | Ability of perception and cognition           |
 | Xiezhi [[paper](https://arxiv.org/abs/2306.05783)][[GitHub](https://github.com/MikeGu721/XiezhiBenchmark)]      | Comprehensive domain knowledge   | General language task | Overall performance across multiple benchmarks   |
+| Choice-75 [[paper](https://arxiv.org/abs/2309.11737)][[GitHub](https://github.com/JoeyHou/branching)]  | Script learning | Specific downstream task | Overall performance of LLMs |
 | CUAD [[paper](https://arxiv.org/abs/2103.06268)] | Legal contract review | Specific downstream task | Legal contract understanding |
 | TRUSTGPT [[paper](https://arxiv.org/abs/2306.11507)] | Ethic | Specific downstream task | Toxicity, bias, and value-alignment |
 | MMLU [[paper](https://arxiv.org/abs/2009.03300)]      | Text models                        | General language task | Multitask accuracy           |
@@ -345,19 +349,22 @@ The paper lists several popular benchmarks. For better summarization, these benc
 | HELM [[paper](https://arxiv.org/abs/2211.09110)][[Link](https://crfm.stanford.edu/helm/latest/)]        | Holistic evaluation           | General language task    | Multi-metric                         |
 | API-Bank [[paper](https://arxiv.org/abs/2304.08244)]    | Tool-augmented                     | Specific downstream task | API call, response, and planning                                       |
 | M3KE [[paper](https://arxiv.org/abs/2305.10263)]    | Multi-task  | Specific downstream task | Multi-task accuracy                                       |
-| MMBench [[paper](https://arxiv.org/abs/2307.06281)][[GitHub](https://github.com/open-compass/MMBench)]    | Large vision-language models(LVLMs) | General language task | Multifaceted capabilities
-of VLMs        |
+| MMBench [[paper](https://arxiv.org/abs/2307.06281)][[GitHub](https://github.com/open-compass/MMBench)]    | Large vision-language models(LVLMs) |  Multi-modal task | Multifaceted capabilities of VLMs        |
+| SEED-Bench [[paper](https://arxiv.org/abs/2307.16125)][[GitHub](https://github.com/AILab-CVC/SEED-Bench)]    | Multi-modal Large Language Models |  Multi-modal task | Generative understanding of MLLMs |
 | ARB [[paper](https://arxiv.org/abs/2307.13692)]  | Advanced reasoning ability       | Specific downstream task | Multidomain advanced reasoning ability|
 | BIG-bench [[paper](https://arxiv.org/abs/2206.04615)][[GitHub](https://github.com/google/BIG-bench)]    | Capabilities and limitations of LMs | General language task | Model performance and calibration         |
 | MultiMedQA [[paper](https://arxiv.org/abs/2212.13138)]  | Medical QA       | Specific downstream task | Accuracy and human evaluation|
 | CVALUES [[paper](https://arxiv.org/abs/2307.09705)] [[GitHub](https://github.com/X-PLUG/CValues)]     | Safety and responsibility | Specific downstream task | Alignment ability of LLMs|
+| LVLM-eHub [[paper](https://arxiv.org/abs/2306.09265)]   |  LVLMs |  Multi-modal task |  Multimodal capabilities of LVLMs |
 | ToolBench [[GitHub](https://github.com/sambanova/toolbench)]  | Software tools               | Specific downstream task | Execution success rate                  |
 | FRESHQA [[paper](https://arxiv.org/abs/2310.03214)] [[GitHub](https://github.com/freshllms/freshqa)]     | Dynamic QA| Specific downstream task |Correctness and hallucination|
 | CMB [[paper](https://arxiv.org/abs/2308.08833)] [[Link](https://cmedbenchmark.llmzoo.com/)]     | Chinese comprehensive medicine| Specific downstream task |Expert evaluation and automatic evaluation|
 | PandaLM [[paper](https://arxiv.org/abs/2306.05087)] [[GitHub](https://github.com/WeOpenML/PandaLM)] | Instruction tuning               | General language task    | Winrate judged by PandaLM             |
 | MINT [[paper](https://arxiv.org/abs/2309.10691)] [[GitHub](https://xingyaoww.github.io/mint-bench/)]  | Multi-turn interaction, tools and language feedback   | Specific downstream task | Success rate with _k_-turn budget _SR<sub>k</sub>_|
 | Dialogue CoT [[paper](https://arxiv.org/abs/2305.11792)] [[GitHub](https://github.com/ruleGreen/Cue-CoT)]  | In-depth dialogue  | Specific downstream task | Helpfulness and acceptness of LLMs|
-| LAMM [[paper](https://arxiv.org/abs/2306.06687)] [[GitHub](https://github.com/OpenLAMM/LAMM)]  | Multi-modal point clouds  | Specific downstream task | Task-specific metrics|
+| BOSS [[paper](https://arxiv.org/abs/2306.04618)] [[GitHub](https://github.com/lifan-yuan/OOD_NLP)] | OOD robustness in NLP               | General language task    | OOD robustness            |
+| MM-Vet [[paper](https://arxiv.org/abs/2308.02490)] [[GitHub](https://github.com/yuweihao/MM-Vet)]  | Complicated multi-modal tasks  |  Multi-modal task | Integrated vision-language capabilities|
+| LAMM [[paper](https://arxiv.org/abs/2306.06687)] [[GitHub](https://github.com/OpenLAMM/LAMM)]  | Multi-modal point clouds  |  Multi-modal task | Task-specific metrics|
 | GLUE-X [[paper](https://arxiv.org/abs/2211.08073)] [[GitHub](https://github.com/YangLinyi/GLUE-X)]     | OOD robustness for NLU tasks     | General language task    | OOD robustness                       |
 | CONNER [[paper](https://arxiv.org/abs/2310.07289)][[GitHub](https://github.com/ChanLiang/CONNER)]       | Knowledge-oriented evaluation      | Knowledge-intensive task    | Intrinsic and extrinsic metrics |
 | KoLA [[paper](https://arxiv.org/abs/2306.09296)]       | Knowledge-oriented evaluation      | General language task    | Self-contrast metrics |
@@ -368,6 +375,12 @@ of VLMs        |
 | GAOKAO-Bench [[paper](https://arxiv.org/abs/2305.12474)]     | Chinese Gaokao examination | Specific downstream task | Accuracy and scoring rate                         |
 | SafetyBench [[paper](https://arxiv.org/abs/2309.07045)] [[GitHub](https://github.com/thu-coai/SafetyBench)]      | Safety | Specific downstream task | Safety abilities of LLMs                        |
 | LLMEval² [[paper](https://arxiv.org/abs/2308.01862)] [[Link](https://drive.google.com/file/d/1sRbYZ0SWqmbIlzC_eB2zjyQF5TBynSXo/view)] | LLM Evaluator | General language task | Accuracy, Macro-F1 and Kappa Correlation Coefficient                        |
+| FinanceBench [[paper](https://uploads-ssl.webflow.com/64e655d42d3be60f582d0472/65558c28757acd0fa312c5ec_FinanceBench__ACL_%20(3).pdf)] [[GitHub](https://github.com/patronus-ai/financebench)]      | Finance Question and Answering | Specific downstream task | Accuracy compared with human annotated labels
+
+| LLMBox [[paper](https://aclanthology.org/2024.acl-demos.37.pdf)] [[GitHub](https://github.com/RUCAIBox/LLMBox)]      | Comprehensive model evaluation | General language task | Flexible and efficent evaluation on 59+ tasks |
+| SciSafeEval [[paper](https://arxiv.org/abs/2410.03769)] [[GitHub](https://github.com/DavidLee528/SciSafeEval)] [[Huggingface](https://huggingface.co/datasets/Tianhao0x01/SciSafeEval)]     | Safety | Specific downstream task | Safety abilities of LLMs in Scientific Tasks
+
+
 
 ## Contributing
 
@@ -401,6 +414,6 @@ If you find this project useful in your research or work, please consider citing
 4. Damien Sileo ([@sileod](https://github.com/sileod)) for [PR#2](https://github.com/MLGroupJLU/LLM-eval-survey/pull/2).
 5. Peiyi Wang ([@Wangpeiyi9979](https://github.com/Wangpeiyi9979)) for [issue#3](https://github.com/MLGroupJLU/LLM-eval-survey/issues/3).
 6. Zengzhi Wang for sentiment analysis.
-7. Kenneth Leung ([@kennethleungty](https://github.com/kennethleungty)) for [PR#4](https://github.com/MLGroupJLU/LLM-eval-survey/pull/4) to [PR#6](https://github.com/MLGroupJLU/LLM-eval-survey/pull/6).
+7. Kenneth Leung ([@kennethleungty](https://github.com/kennethleungty)) for multiple PRs (#4, #5, #6)
 8. [@Aml-Hassan-Abd-El-hamid](https://github.com/Aml-Hassan-Abd-El-hamid) for [PR#7](https://github.com/MLGroupJLU/LLM-eval-survey/pull/7).
 9. [@taichengguo](https://github.com/taichengguo) for [issue#9](https://github.com/MLGroupJLU/LLM-eval-survey/issues/9)
