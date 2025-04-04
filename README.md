@@ -159,6 +159,7 @@ Related projects:
 4. A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark Datasets, _Laskar et al._ ACL 2023 (Findings). [[paper](https://arxiv.org/abs/2305.18486)]
 5. Holistic Evaluation of Language Models. _Percy Liang et al._ arXiv 2022. [[paper](https://arxiv.org/abs/2211.09110)]
 6. Is ChatGPT a general-purpose natural language processing task solver? _Chengwei Qin et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2302.06476)]
+7. Ask Again, Then Fail: Large Language Models' Vacillations in Judgment _Qiming Xie et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2310.02174)]
    
 ##### Others
 1. Exploring the use of large language models for reference-free text quality evaluation: A preliminary empirical study. _Yi Chen et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2304.00723)]
