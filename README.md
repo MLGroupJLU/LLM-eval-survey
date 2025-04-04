@@ -126,6 +126,8 @@ Related projects:
 17. Evaluating and Improving Tool-Augmented Computation-Intensive Math Reasoning. _Beichen Zhang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.02408)]
 18. StructGPT: A General Framework for Large Language Model to Reason over Structured Data. _Jinhao Jiang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.09645)]
 19. Unifying Large Language Models and Knowledge Graphs: A Roadmap. _Shirui Pan et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.08302)]
+20. Assessing and Enhancing the Robustness of Large Language Models with Task Structure Variations for Logical Reasoning. _Qiming Bao et al._ ICONIP 2024. [[paper](https://arxiv.org/abs/2310.09430)]
+21. Multi-Step Deductive Reasoning Over Natural Language: An Empirical Study on Out-of-Distribution Generalisation. _Qiming Bao et al._ NeSy 2022. [[paper](https://ceur-ws.org/Vol-3212/paper15.pdf)]
    
 #### Natural language generation
 
