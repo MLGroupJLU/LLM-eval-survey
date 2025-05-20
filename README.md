@@ -160,6 +160,7 @@ Related projects:
 5. Holistic Evaluation of Language Models. _Percy Liang et al._ arXiv 2022. [[paper](https://arxiv.org/abs/2211.09110)]
 6. Is ChatGPT a general-purpose natural language processing task solver? _Chengwei Qin et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2302.06476)]
 7. Ask Again, Then Fail: Large Language Models' Vacillations in Judgment _Qiming Xie et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2310.02174)]
+8. TinyQA Benchmark++. Using tiny synthethic question answering datasets to detect model drift and accurarcy. _Vincent Koc._ arXiv 2025. [[paper](https://arxiv.org/abs/2505.12058)]
    
 ##### Others
 1. Exploring the use of large language models for reference-free text quality evaluation: A preliminary empirical study. _Yi Chen et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2304.00723)]
