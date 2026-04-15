@@ -292,6 +292,7 @@ Related projects:
 5. ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs. _Qin et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2307.16789)]
 6. Toolformer: Language Models Can Teach Themselves to Use Tools. _Timo Schick et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2302.04761)]
 7. HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face. _Yongliang Shen et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2303.17580)]
+8. ClawBench: Evaluating Browser Agents on Live Production Websites. _NAIL Group._ arXiv 2026. [[paper](https://arxiv.org/abs/2604.08523)] [[GitHub](https://github.com/reacher-z/ClawBench)]
 
 ### Other applications
 
