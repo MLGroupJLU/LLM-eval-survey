@@ -403,11 +403,15 @@ You can also open an issue if you have anything to add or comment.
 If you find this project useful in your research or work, please consider citing it:
 
 ```
-@article{chang2023survey,
-      title={A Survey on Evaluation of Large Language Models}, 
-      author={Chang, Yupeng and Wang, Xu and Wang, Jindong and Wu, Yuan and Zhu, Kaijie and Chen, Hao and Yang, Linyi and Yi, Xiaoyuan and Wang, Cunxiang and Wang, Yidong and Ye, Wei and Zhang, Yue and Chang, Yi and Yu, Philip S. and Yang, Qiang and Xie, Xing},
-      journal={arXiv preprint arXiv:2307.03109},
-      year={2023}
+@article{chang2024survey,
+  title={A survey on evaluation of large language models},
+  author={Chang, Yupeng and Wang, Xu and Wang, Jindong and Wu, Yuan and Yang, Linyi and Zhu, Kaijie and Chen, Hao and Yi, Xiaoyuan and Wang, Cunxiang and Wang, Yidong and others},
+  journal={ACM transactions on intelligent systems and technology},
+  volume={15},
+  number={3},
+  pages={1--45},
+  year={2024},
+  publisher={ACM New York, NY}
 }
 ```
 
