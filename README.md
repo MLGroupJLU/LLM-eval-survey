@@ -293,6 +293,7 @@ Related projects:
 6. Toolformer: Language Models Can Teach Themselves to Use Tools. _Timo Schick et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2302.04761)]
 7. HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face. _Yongliang Shen et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2303.17580)]
 8. ClawBench: Evaluating Browser Agents on Live Production Websites. _NAIL Group._ arXiv 2026. [[paper](https://arxiv.org/abs/2604.08523)] [[GitHub](https://github.com/reacher-z/ClawBench)]
+9. PACT: Can Enterprise AI Assistants Be Trusted Under Pressure? _Mika Okamoto et al._ Preprint 2026. [[paper](https://www.alphaxiv.org/pdf/2609.pact-enterprise-ai-compliance-testing)] [[website](https://trace-ai-labs.github.io/pact/)] [[dataset](https://huggingface.co/datasets/trace-ai-labs/pact)]
 
 ### Other applications
 
