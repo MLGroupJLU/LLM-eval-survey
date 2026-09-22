@@ -387,6 +387,7 @@ The paper lists several popular benchmarks. For better summarization, these benc
 | LLMBox [[paper](https://aclanthology.org/2024.acl-demos.37.pdf)] [[GitHub](https://github.com/RUCAIBox/LLMBox)]      | Comprehensive model evaluation | General language task | Flexible and efficent evaluation on 59+ tasks |
 | SciSafeEval [[paper](https://arxiv.org/abs/2410.03769)] [[GitHub](https://github.com/DavidLee528/SciSafeEval)] [[Huggingface](https://huggingface.co/datasets/Tianhao0x01/SciSafeEval)]     | Safety | Specific downstream task | Safety abilities of LLMs in Scientific Tasks
 | YYLO Benchmark [[GitHub](https://github.com/yylo-dev/yylo-benchmark)] | Longitudinal evaluation and immutable evidence for agent runs | Specific downstream task | Authoritative deterministic correctness/safety checks plus blinded rubric-bound LLM judging (single/reference/pairwise); valid-resolved rate, invalidity, comparison classification, measured runtime, and cost completeness |
+| Jevals.com [[Website](https://jevals.com/)] [[GitHub](https://github.com/Jevals/jevals-data)] | Typed decisions (yes/no, pick one of N, rubric score) with a probability per option | Specific downstream task | Brier skill score against the label base rates, accuracy, calibration error (ECE), cost and latency |
 
 
 
