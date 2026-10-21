@@ -387,6 +387,7 @@ The paper lists several popular benchmarks. For better summarization, these benc
 | LLMBox [[paper](https://aclanthology.org/2024.acl-demos.37.pdf)] [[GitHub](https://github.com/RUCAIBox/LLMBox)]      | Comprehensive model evaluation | General language task | Flexible and efficent evaluation on 59+ tasks |
 | SciSafeEval [[paper](https://arxiv.org/abs/2410.03769)] [[GitHub](https://github.com/DavidLee528/SciSafeEval)] [[Huggingface](https://huggingface.co/datasets/Tianhao0x01/SciSafeEval)]     | Safety | Specific downstream task | Safety abilities of LLMs in Scientific Tasks
 | YYLO Benchmark [[GitHub](https://github.com/yylo-dev/yylo-benchmark)] | Longitudinal evaluation and immutable evidence for agent runs | Specific downstream task | Authoritative deterministic correctness/safety checks plus blinded rubric-bound LLM judging (single/reference/pairwise); valid-resolved rate, invalidity, comparison classification, measured runtime, and cost completeness |
+| Jevsus [[GitHub](https://github.com/2nd1st/Jevsus)][[Link](https://position.secondfirst.ai)] | What a probability-only model answers under a forced true/false pick | Specific downstream task | Readings per statement across wordings, option orders, an optional decline, fixed perspective prefixes, eleven languages, and differently built sentences asking the same judgement; settled control statements carried in every run |
 
 
 
