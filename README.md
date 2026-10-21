@@ -184,6 +184,7 @@ Related projects:
 4. FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation. _Sewon Min et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.14251)]
 5. Measuring and Modifying Factual Knowledge in Large Language Models. _Pouya Pezeshkpour_ arXiv 2023. [[paper](https://arxiv.org/abs/2306.06264)]
 6. Evaluating Open-QA Evaluation. _Cunxiang Wang_ arXiv 2023. [[paper](https://arxiv.org/abs/2305.12421)]
+7. DRIFT: Detecting Representational Inconsistencies for Factual Truthfulness. _Rohan Bhatnagar et al._ arXiv 2026. [[paper](https://arxiv.org/abs/2601.14210)]
 
    
 ### Robustness, ethics, biases, and trustworthiness
@@ -294,6 +295,7 @@ Related projects:
 7. HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face. _Yongliang Shen et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2303.17580)]
 8. ClawBench: Evaluating Browser Agents on Live Production Websites. _NAIL Group._ arXiv 2026. [[paper](https://arxiv.org/abs/2604.08523)] [[GitHub](https://github.com/reacher-z/ClawBench)]
 9. PACT: Can Enterprise AI Assistants Be Trusted Under Pressure? _Mika Okamoto et al._ Preprint 2026. [[paper](https://www.alphaxiv.org/pdf/2609.pact-enterprise-ai-compliance-testing)] [[website](https://trace-ai-labs.github.io/pact/)] [[dataset](https://huggingface.co/datasets/trace-ai-labs/pact)]
+10. PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting. _Youran Sun et al._ arXiv 2026. [[paper](https://arxiv.org/abs/2606.08878)] [[GitHub](https://github.com/WhymustIhaveaname/PerspectiveGap)] [[dataset](https://huggingface.co/datasets/sun1245/PerspectiveGap)]
 
 ### Other applications
 
