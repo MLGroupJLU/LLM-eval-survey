@@ -250,6 +250,7 @@ Related projects:
 1. Have LLMs Advanced Enough? A Challenging Problem Solving Benchmark for Large Language Models. _Daman Arora et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.15074)]
 2. Do Large Language Models Understand Chemistry? A Conversation with ChatGPT. _Castro Nascimento CM et al._ JCIM 2023. [[paper](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00285)]
 3. What indeed can GPT models do in chemistry? A comprehensive benchmark on eight tasks. _Taicheng Guo et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.18365)][[GitHub](https://github.com/ChemFoundationModels/ChemLLMBench)]
+4. SciΠvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents. _Youran Sun et al._ arXiv 2026. [[paper](https://arxiv.org/abs/2610.21082)] [[GitHub](https://github.com/AutoResearch-Factory/SciPIvot)] [[dataset](https://huggingface.co/datasets/sun1245/SciPIvot)]
    
 #### Engineering
 1. Sparks of Artificial General Intelligence: Early Experiments with GPT-4. _Sébastien Bubeck et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2303.12712)]
@@ -391,6 +392,7 @@ The paper lists several popular benchmarks. For better summarization, these benc
 | YYLO Benchmark [[GitHub](https://github.com/yylo-dev/yylo-benchmark)] | Longitudinal evaluation and immutable evidence for agent runs | Specific downstream task | Authoritative deterministic correctness/safety checks plus blinded rubric-bound LLM judging (single/reference/pairwise); valid-resolved rate, invalidity, comparison classification, measured runtime, and cost completeness |
 | Jevsus [[GitHub](https://github.com/2nd1st/Jevsus)][[Link](https://position.secondfirst.ai)] | What a probability-only model answers under a forced true/false pick | Specific downstream task | Readings per statement across wordings, option orders, an optional decline, fixed perspective prefixes, eleven languages, and differently built sentences asking the same judgement; settled control statements carried in every run |
 | Scorio [[paper](https://arxiv.org/abs/2510.04265)] [[GitHub](https://github.com/mohsenhariri/scorio)] | Repeated-trial performance estimation | General language task | Bayes@N posterior mean and uncertainty; weighted categorical rubrics |
+| SciΠvot [[paper](https://arxiv.org/abs/2610.21082)] [[GitHub](https://github.com/AutoResearch-Factory/SciPIvot)] [[Huggingface](https://huggingface.co/datasets/sun1245/SciPIvot)] | Research judgment of AI scientist agents | Specific downstream task | Accuracy on 248 real expert corrections from 26 research projects |
 
 
 
