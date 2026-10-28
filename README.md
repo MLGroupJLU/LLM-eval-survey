@@ -184,6 +184,7 @@ Related projects:
 4. FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation. _Sewon Min et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.14251)]
 5. Measuring and Modifying Factual Knowledge in Large Language Models. _Pouya Pezeshkpour_ arXiv 2023. [[paper](https://arxiv.org/abs/2306.06264)]
 6. Evaluating Open-QA Evaluation. _Cunxiang Wang_ arXiv 2023. [[paper](https://arxiv.org/abs/2305.12421)]
+7. DRIFT: Detecting Representational Inconsistencies for Factual Truthfulness. _Rohan Bhatnagar et al._ arXiv 2026. [[paper](https://arxiv.org/abs/2601.14210)]
 
    
 ### Robustness, ethics, biases, and trustworthiness
@@ -249,6 +250,7 @@ Related projects:
 1. Have LLMs Advanced Enough? A Challenging Problem Solving Benchmark for Large Language Models. _Daman Arora et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.15074)]
 2. Do Large Language Models Understand Chemistry? A Conversation with ChatGPT. _Castro Nascimento CM et al._ JCIM 2023. [[paper](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00285)]
 3. What indeed can GPT models do in chemistry? A comprehensive benchmark on eight tasks. _Taicheng Guo et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.18365)][[GitHub](https://github.com/ChemFoundationModels/ChemLLMBench)]
+4. SciΠvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents. _Youran Sun et al._ arXiv 2026. [[paper](https://arxiv.org/abs/2610.21082)] [[GitHub](https://github.com/AutoResearch-Factory/SciPIvot)] [[dataset](https://huggingface.co/datasets/sun1245/SciPIvot)]
    
 #### Engineering
 1. Sparks of Artificial General Intelligence: Early Experiments with GPT-4. _Sébastien Bubeck et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2303.12712)]
@@ -294,6 +296,7 @@ Related projects:
 7. HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face. _Yongliang Shen et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2303.17580)]
 8. ClawBench: Evaluating Browser Agents on Live Production Websites. _NAIL Group._ arXiv 2026. [[paper](https://arxiv.org/abs/2604.08523)] [[GitHub](https://github.com/reacher-z/ClawBench)]
 9. PACT: Can Enterprise AI Assistants Be Trusted Under Pressure? _Mika Okamoto et al._ Preprint 2026. [[paper](https://www.alphaxiv.org/pdf/2609.pact-enterprise-ai-compliance-testing)] [[website](https://trace-ai-labs.github.io/pact/)] [[dataset](https://huggingface.co/datasets/trace-ai-labs/pact)]
+10. PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting. _Youran Sun et al._ arXiv 2026. [[paper](https://arxiv.org/abs/2606.08878)] [[GitHub](https://github.com/WhymustIhaveaname/PerspectiveGap)] [[dataset](https://huggingface.co/datasets/sun1245/PerspectiveGap)]
 
 ### Other applications
 
@@ -388,6 +391,9 @@ The paper lists several popular benchmarks. For better summarization, these benc
 | SciSafeEval [[paper](https://arxiv.org/abs/2410.03769)] [[GitHub](https://github.com/DavidLee528/SciSafeEval)] [[Huggingface](https://huggingface.co/datasets/Tianhao0x01/SciSafeEval)]     | Safety | Specific downstream task | Safety abilities of LLMs in Scientific Tasks
 | YYLO Benchmark [[GitHub](https://github.com/yylo-dev/yylo-benchmark)] | Longitudinal evaluation and immutable evidence for agent runs | Specific downstream task | Authoritative deterministic correctness/safety checks plus blinded rubric-bound LLM judging (single/reference/pairwise); valid-resolved rate, invalidity, comparison classification, measured runtime, and cost completeness |
 | Jevals.com [[Website](https://jevals.com/)] [[GitHub](https://github.com/Jevals/jevals-data)] | Typed decisions (yes/no, pick one of N, rubric score) with a probability per option | Specific downstream task | Brier skill score against the label base rates, accuracy, calibration error (ECE), cost and latency |
+| Jevsus [[GitHub](https://github.com/2nd1st/Jevsus)][[Link](https://position.secondfirst.ai)] | What a probability-only model answers under a forced true/false pick | Specific downstream task | Readings per statement across wordings, option orders, an optional decline, fixed perspective prefixes, eleven languages, and differently built sentences asking the same judgement; settled control statements carried in every run |
+| Scorio [[paper](https://arxiv.org/abs/2510.04265)] [[GitHub](https://github.com/mohsenhariri/scorio)] | Repeated-trial performance estimation | General language task | Bayes@N posterior mean and uncertainty; weighted categorical rubrics |
+| SciΠvot [[paper](https://arxiv.org/abs/2610.21082)] [[GitHub](https://github.com/AutoResearch-Factory/SciPIvot)] [[Huggingface](https://huggingface.co/datasets/sun1245/SciPIvot)] | Research judgment of AI scientist agents | Specific downstream task | Accuracy on 248 real expert corrections from 26 research projects |
 
 
 
