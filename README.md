@@ -297,6 +297,7 @@ Related projects:
 8. ClawBench: Evaluating Browser Agents on Live Production Websites. _NAIL Group._ arXiv 2026. [[paper](https://arxiv.org/abs/2604.08523)] [[GitHub](https://github.com/reacher-z/ClawBench)]
 9. PACT: Can Enterprise AI Assistants Be Trusted Under Pressure? _Mika Okamoto et al._ Preprint 2026. [[paper](https://www.alphaxiv.org/pdf/2609.pact-enterprise-ai-compliance-testing)] [[website](https://trace-ai-labs.github.io/pact/)] [[dataset](https://huggingface.co/datasets/trace-ai-labs/pact)]
 10. PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting. _Youran Sun et al._ arXiv 2026. [[paper](https://arxiv.org/abs/2606.08878)] [[GitHub](https://github.com/WhymustIhaveaname/PerspectiveGap)] [[dataset](https://huggingface.co/datasets/sun1245/PerspectiveGap)]
+11. EC²-Bench (EC2-Bench): Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution. _Pengcheng Huang et al._ arXiv 2026. [[paper](https://arxiv.org/abs/2610.17816)] [[GitHub](https://github.com/OpenBMB/EC2-Bench)] [[website](https://passionate11.github.io/ec2-bench-project-page/)] [[dataset](https://huggingface.co/datasets/chengpingan/EC2-Bench)]
 
 ### Other applications
 
