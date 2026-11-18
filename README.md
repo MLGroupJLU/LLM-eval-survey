@@ -329,6 +329,7 @@ Related projects:
 1. ChatGPT and Other Large Language Models as Evolutionary Engines for Online Interactive Collaborative Game Design. _Pier Luca Lanzi et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2303.02155)]
 2. An Evaluation of Log Parsing with ChatGPT. _Van-Hoang Le et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.01590)]
 3. PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization. _Yidong Wang et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.05087)]
+4. LLMs Meet Finance: Fine-Tuning Foundation Models for the Open FinLLM Leaderboard. _Varun Rao et al._ arXiv 2025. [[paper](https://arxiv.org/abs/2504.13125)]
 
 ## Where to evaluate
 
