@@ -396,6 +396,7 @@ The paper lists several popular benchmarks. For better summarization, these benc
 | Jevsus [[GitHub](https://github.com/2nd1st/Jevsus)][[Link](https://position.secondfirst.ai)] | What a probability-only model answers under a forced true/false pick | Specific downstream task | Readings per statement across wordings, option orders, an optional decline, fixed perspective prefixes, eleven languages, and differently built sentences asking the same judgement; settled control statements carried in every run |
 | Scorio [[paper](https://arxiv.org/abs/2510.04265)] [[GitHub](https://github.com/mohsenhariri/scorio)] | Repeated-trial performance estimation | General language task | Bayes@N posterior mean and uncertainty; weighted categorical rubrics |
 | SciΠvot [[paper](https://arxiv.org/abs/2610.21082)] [[GitHub](https://github.com/AutoResearch-Factory/SciPIvot)] [[Huggingface](https://huggingface.co/datasets/sun1245/SciPIvot)] | Research judgment of AI scientist agents | Specific downstream task | Accuracy on 248 real expert corrections from 26 research projects |
+| ESGenius [[paper](https://arxiv.org/abs/2506.01646)] [[GitHub](https://github.com/ANGEL-NTU/ESGenius)] [[Huggingface](https://huggingface.co/datasets/cy0307/ESGenius)] | ESG and sustainability knowledge QA | Specific downstream task | Zero-shot and RAG accuracy on 1,136 expert-validated MCQs across 50 LLMs |
 
 
 
